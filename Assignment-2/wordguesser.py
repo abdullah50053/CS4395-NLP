@@ -3,9 +3,37 @@
 # NLP HW 2
 
 # assumes sysarg is /anat19.txt
+import os
 import sys
+import nltk
+import re
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 
-def readfile(filepath):
+
+def read_file(filepath):
+    with open(os.path.join(os.getcwd(), filepath), 'r') as f:
+        text_in = f.read()
+    print("\nThe current file reads:")
+    return text_in
+
+def calculate_lexical_diversity(text):
+    nltk.download('popular')
+    tokens = word_tokenize(text)
+    token_set = set(tokens)
+    lexical_diversity = len(token_set)/len(tokens)
+    print("Lexical Deversity: %.2f" % (lexical_diversity))
+
+def preprocess(text):
+    clean_text = re.sub(r'[.?!,:;()\-\n\d]', ' ', text.lower())
+    tokens = word_tokenize(clean_text)
+    stop_words = stopwords.words('english')
+    new_tokens = [t for t in tokens if t not in stop_words and len(t) > 5]
+    wnl = WordNetLemmatizer()
+    lemmas = [wnl.lemmatize(t) for t in new_tokens]
+    lemmas = set(lemmas)
+    print(lemmas)
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
@@ -13,5 +41,7 @@ if __name__ == '__main__':
     else:
         filepath = sys.argv[1]
         print("The file path is " + filepath)
-        contents = readfile(filepath)
+        contents = read_file(filepath)
+        calculate_lexical_diversity(contents)
+        preprocess(contents)
 
