@@ -152,7 +152,8 @@ def guessing_game(t50):
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print('No sysarg provided!')  # print an error message and exit the program if no sysarg provided
+        # print an error message and exit the program if no sysarg provided
+        print('No sysarg provided!')
     else:
         filepath = sys.argv[1]
         print("The file path is " + filepath)
