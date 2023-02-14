@@ -4,12 +4,14 @@
 
 # assumes sysarg is /anat19.txt
 import os
+import random
 import sys
 import nltk
 import re
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+from random import randint
 
 
 def read_file(filepath):
@@ -41,11 +43,61 @@ def preprocess(text):
     print(ftwenty)
     noun_list = ['NN', 'NNS', 'NNP', 'NNPS']
     nouns = [t for t in tags if t[1] in noun_list]
-    # print(nouns)
     print('Number of tokens: ' + str(len(new_tokens)))
     print('Number of nouns:' + str(len(nouns)))
     return new_tokens, nouns
 
+
+def make_dict(tokens, nouns):
+    new_dict = {}
+    new_nouns = [i[0] for i in nouns if i[0] in tokens]
+    for i in new_nouns:
+        new_dict[i] = tokens.count(i)
+    sort_dict = dict(sorted(new_dict.items(), key=lambda item: item[1]))
+    top_50 = []
+    for i in reversed(sort_dict):
+        top_50.append(i)
+    top_50 = top_50[:50]
+    print("Top 50 most common words:")
+    for i in top_50:
+        print(i)
+    return top_50
+
+
+def guessing_game(t50):
+    user_pts = 5
+    print(f"The game has begun! You have {user_pts} points.")
+    word = random.choice(t50)
+    guesses = []
+
+    while user_pts > 0:
+        wrong = 0
+        for i in word:
+            if i in guesses:
+                print(i, end=' ')
+            else:
+                print('_', end=' ')
+                wrong += 1
+
+        if wrong == 0:
+            print("\nYou got it! The word was: " + word)
+            break
+
+        guess = input("\nGuess a letter: ")
+        guesses.append(guess)
+
+        if guess not in word:
+            print('Sorry, guess again.')
+            user_pts -= 1
+        elif guess == '!':
+            print("Game Quit")
+            exit(0)
+        else:
+            print('Right!')
+            user_pts += 1
+
+        if user_pts == 0:
+            print("\nYou lost! The word was " + word)
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
@@ -56,4 +108,5 @@ if __name__ == '__main__':
         contents = read_file(filepath)
         calculate_lexical_diversity(contents)
         tokens, nouns = preprocess(contents)
-
+        top_50 = make_dict(tokens, nouns)
+        guessing_game(top_50)
