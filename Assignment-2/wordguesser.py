@@ -133,20 +133,20 @@ def guessing_game(t50):
             # Subtract 1 from their score
             user_pts -= 1
 
+            # End game if pts = 0
+            if user_pts == 0:
+                print("\nYou lost! The word was \'" + word + "\'")
+                exit(0)
+
             # If the letter is not in the word
-            print('Sorry, guess again.')
-            print(f'You have {user_pts} points')
+            print(f'Sorry, guess again. You have {user_pts} points')
 
         else:
             # Add 1 point to their score
             user_pts += 1
 
             # If the letter is in the word
-            print('Right!')
-            print(f'You have {user_pts} points')
-
-        if user_pts == 0:
-            print("\nYou lost! The word was " + word)
+            print(f'Right! You have {user_pts} points')
 
 
 if __name__ == '__main__':
