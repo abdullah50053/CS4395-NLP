@@ -17,7 +17,6 @@ def read_file(filepath):
     # Read the input file as raw text
     with open(os.path.join(os.getcwd(), filepath), 'r') as f:
         text_in = f.read()
-    print("\nThe current file reads:")
     return text_in
 
 
@@ -56,7 +55,7 @@ def preprocess(text):
     ftwenty = tags[:20]
 
     #  print the first 20 tagged
-    print("First 20 tags: ")
+    print("First 20 tagged: ")
     print(ftwenty)
 
     # create a list of only those lemmas that are nouns
@@ -92,7 +91,7 @@ def make_dict(tokens, nouns):
     # Print the 50 most common words and their counts
     print("Top 50 most common words:")
     for i in top_50:
-        print(i)
+        print(i + ':' + str(new_dict[i]))
     return top_50
 
 
@@ -125,26 +124,26 @@ def guessing_game(t50):
         guess = input("\nGuess a letter: ")
         guesses.append(guess)
 
-        if guess not in word:
+        if guess == '!':
+            # If user guesses '!' end game
+            print("\nGame Quit by User")
+            exit(0)
+
+        elif guess not in word:
+            # Subtract 1 from their score
+            user_pts -= 1
+
             # If the letter is not in the word
             print('Sorry, guess again.')
             print(f'You have {user_pts} points')
 
-            # Subtract 1 from their score
-            user_pts -= 1
-
-        elif guess == '!':
-            # If user guesses '!' end game
-            print("Game Quit")
-            exit(0)
-
         else:
+            # Add 1 point to their score
+            user_pts += 1
+
             # If the letter is in the word
             print('Right!')
             print(f'You have {user_pts} points')
-
-            # Add 1 point to their score
-            user_pts += 1
 
         if user_pts == 0:
             print("\nYou lost! The word was " + word)
@@ -156,7 +155,6 @@ if __name__ == '__main__':
         print('No sysarg provided!')
     else:
         filepath = sys.argv[1]
-        print("The file path is " + filepath)
         contents = read_file(filepath)
         calculate_lexical_diversity(contents)
         tokens, nouns = preprocess(contents)
