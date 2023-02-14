@@ -118,11 +118,11 @@ def guessing_game(t50):
         # end game if user guesses the answer
         if wrong == 0:
             print("\nYou got it! The word was: " + word)
+            print(f"You had {user_pts} points")
             break
 
         # ask the user for a letter
         guess = input("\nGuess a letter: ")
-        guesses.append(guess)
 
         if guess == '!':
             # If user guesses '!' end game
@@ -130,24 +130,31 @@ def guessing_game(t50):
             exit(0)
 
         elif guess not in word:
-            # Subtract 1 from their score
-            user_pts -= 1
+            if guess not in guesses:
+                # Subtract 1 from their score
+                user_pts -= 1
 
-            # End game if pts = 0
-            if user_pts == 0:
-                print("\nYou lost! The word was \'" + word + "\'")
-                exit(0)
+                # End game if pts = 0
+                if user_pts == 0:
+                    print("\nYou lost! The word was \'" + word + "\'")
+                    exit(0)
 
-            # If the letter is not in the word
-            print(f'Sorry, guess again. You have {user_pts} points')
+                # If the letter is not in the word
+                print(f'Sorry, guess again. You have {user_pts} points')
+                guesses.append(guess)
+            else:
+                print(f"You've already guessed {guess}!")
 
         else:
-            # Add 1 point to their score
-            user_pts += 1
+            if guess not in guesses:
+                # Add 1 point to their score
+                user_pts += 1
 
-            # If the letter is in the word
-            print(f'Right! You have {user_pts} points')
-
+                # If the letter is in the word
+                print(f'Right! You have {user_pts} points')
+                guesses.append(guess)
+            else:
+                print(f"You've already guessed {guess}!")
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
