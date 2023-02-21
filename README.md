@@ -5,3 +5,5 @@
 [Assignment 1: Text Processing with Python](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-1)
 
 [Assignment 2: Word Guessing Game](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-2)
+
+[Assignment 3: Intro to WordNet](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-3)
