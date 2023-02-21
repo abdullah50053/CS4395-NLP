@@ -1,4 +1,4 @@
-# CS4395-NLP
+# CS4395-NLP Portfolio
 
 [Assignment 0: Overview of NLP](https://github.com/abdullah50053/CS4395-NLP/blob/main/Assignment-0/Overview%20of%20NLP.pdf)
 
