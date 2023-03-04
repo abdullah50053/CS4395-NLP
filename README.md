@@ -7,3 +7,5 @@
 [Assignment 2: Word Guessing Game](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-2)
 
 [Assignment 3: Intro to WordNet](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-3)
+
+[Assignment 4: Language Identification using N-grams](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-4)
