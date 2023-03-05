@@ -9,3 +9,5 @@
 [Assignment 3: Intro to WordNet](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-3)
 
 [Assignment 4: Language Identification using N-grams](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-4)
+
+[Assignment 5: Sentence Parsing using PSG, Dependency Parsing and SRL Parse](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-5)
