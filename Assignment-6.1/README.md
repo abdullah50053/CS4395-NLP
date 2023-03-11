@@ -7,4 +7,4 @@ The program takes a URL as input and outputs the links on the page, scrapes the 
 
 It then uses the `nltk` library to tokenize the text and output the top most common words to a file, from which a knowledge base of facts is created and pickled.
 
-[Web Crawler Report Link](https://github.com/abdullah50053/CS4395-NLP/blob/main/Assignment%206.1/Assignment%206_%20Finding%20or%20Building%20a%20Corpus.pdf)
+[Web Crawler Report Link](https://github.com/abdullah50053/CS4395-NLP/blob/main/Assignment-6.1/Assignment%206_%20Finding%20or%20Building%20a%20Corpus.pdf)
