@@ -1,93 +1,628 @@
-subscribe
-registration
-sign in
-formula 1 news
-button: 2023 won’t be a “walk in the park” for verstappen and red bull
-alfa romeo's fake launch floor
-alpine "doesn't know true pace"
-the aston martin f1 brake revamp that helped alonso's bahrain charge
-how cfd has grown in importance
-featured video
-the aston martin brake tech helping alonso fight in f1
-2023 bahrain gp akkodis f1 race debrief: facing the challenge ahead together
-the top 10 williams f1 drivers of all time
-unsung hero of f1 innovation 
-red bull dominant and some aston magic - 2023 f1 bahrain gp review
-latest featured news
-view more
-race hub
-session
-mar 17
-mar 17
-16:30
-16:30
-mar 17
-mar 17
-20:00
-20:00
-mar 18
-mar 18
-16:30
-16:30
-mar 18
-mar 18
-20:00
-20:00
-mar 19
-mar 19
-20:00
-20:00
-standings
-25 pts
-18 pts
-15 pts
-red bull racing
-43 pts
-aston martin racing
-23 pts
-mercedes
-16 pts
-see full standings
-results
-2 mar
-red bull racing
-red bull racing
-aston martin racing
-see full race result
-schedule
-tickets
-powered by
-saudi arabian gp
-australian gp
-azerbaijan gp
-miami gp
-emilia romagna gp
-monaco gp
-canadian gp
-see full schedule
-part of
-the motorsport.com app
-sign in
-subscribe to motorsport.com prime
-register for free
-rss feeds
-about us
-list of all series
-motorsport.tv
-motor1.com
-motorsportjobs.com
-motorsportimages.com
-autosport.com
-motorsportstats.com
-advertise with motorsport.com
-contact the team
-sales@motorsport.com
-+1 305 507 87 99
-5972 ne 4th avenuemiami, fl 33137usa
-all rights reserved.
-terms & conditions
-cookie policy
-privacy policy
-cookie settings
-registration
-sign in
+jump to content languages on this wikipedia the language links are at the top of the page across from the article title
+
+contents move to sidebar hide top history technological developments big business manufacturers return manufacturers decline and return of the privateers hybrid era racing and strategy tyre rules qualifying race flags points system constructors drivers feeder series grands prix returning additions present new locations initiative present future grands prix circuits cars and technology revenue and profits future responsibility towards the environment responsibility towards social inequities in the sport media coverage distinction between formula one and world championship races european non championship racing south african formula one championship british formula one championship see also notes references further reading external links from wikipedia the free encyclopedia this is the latest accepted revision reviewed on march 
+motorsport championship held worldwide f formula and fia world championship redirect here
+for other uses see f disambiguation formula one disambiguation and list of fia events
+formula oneformula one logo since categoryopen wheel single seater formula auto racingcountryinternationalinaugural seasondriversteamschassis manufacturersengine manufacturersferrarihonda rbptmercedesrenaulttyre supplierspirellidrivers champion max verstappenconstructors champion red bull racing rbptofficial website current season formula one current season related articles history of formula one formula one racing formula one regulations formula one cars formula one engines formula one tyres lists drivers gp winnerspolesittersfastest laps championsnumbers constructors gp winnerschampions engine manufacturers gp winnerschampions seasonsgrands prixcircuits race promoters trophy winners points scoring systems national colourssponsorship liveries racing flagsred flagged races female driverstv broadcasters fatalitiesvideo games records drivers constructors engines tyres races organisations fia fia world motor sport council formula one group liberty media formula one constructors association formula one teams association grand prix drivers association vte formula one more commonly known as formula or f is the highest class of international racing for open wheel single seater formula racing cars sanctioned by the fédération internationale de lautomobile fia
+the fia formula one world championship has been one of the premier forms of racing around the world since its inaugural season in 
+the word formula in the name refers to the set of rules to which all participants cars must conform
+a formula one season consists of a series of races known as grands prix
+grands prix take place in multiple countries and continents around the world on either purpose built circuits or closed public roads
+a points system is used at grands prix to determine two annual world championships one for the drivers and one for the constructors the teams
+each driver must hold a valid super licence the highest class of racing licence issued by the fia and the races must be held on tracks graded the highest grade rating issued by the fia for tracks
+formula one cars are the fastest regulated road course racing cars in the world owing to very high cornering speeds achieved through the generation of large amounts of aerodynamic downforce
+much of this downforce is generated by front and rear wings which have the side effect of causing severe turbulence behind each car
+the turbulence reduces the downforce generated by the cars following directly behind making it hard to overtake
+major changes made to the cars for the season has seen greater use of ground effect aerodynamics and modified wings to reduce the turbulence behind the cars with the goal of making overtaking easier
+the cars are dependent on electronics aerodynamics suspension and tyres
+traction control launch control and automatic shifting plus other electronic driving aids were first banned in 
+they were briefly reintroduced in and have more recently been banned since and respectively
+with the average annual cost of running a team designing building and maintaining cars pay transport being approximately £ or $ its financial and political battles are widely reported
+on january liberty media completed its acquisition of the formula one group from private equity firm cvc capital partners for £ or $
+main article history of formula one formula one originated from the european motor racing championships of the s and s the formula consists of a set of rules that all participants cars must follow
+formula one was a new formula agreed upon during with the first non championship races taking place during that year
+the first formula one grand prix was the turin grand prix
+a number of grand prix racing organisations had laid out rules for a motor racing world championship before world war ii but due to the suspension of racing during the conflict the world drivers championship did not become formalised until 
+the first world championship race took place at the silverstone circuit in the united kingdom on may 
+giuseppe farina competing for alfa romeo won the first drivers world championship narrowly defeating his teammate juan manuel fangio
+however fangio would go on to win the championship in and respectively
+this set the record for the most world championships won by a single driver a record that stood for years until michael schumacher won his sixth championship in 
+a constructors championship was added in the season
+stirling moss despite being regarded as one of the greatest formula one drivers in the s and s never won the formula one championship
+between and moss finished second place in the championship four times and in third place the other three times
+fangio however achieved the record of winning of the races he entered a record for the highest percentage of formula one races won by a single driver
+this is a record he holds to this day
+national championships existed in south africa and the uk in the s and s non championship formula one events were held by promoters for many years
+however due to the increasing cost of competition the last of these was held in 
+this time period featured teams managed by road car manufacturers such as alfa romeo ferrari mercedes benz and maserati
+the first seasons featured pre war cars like alfas 
+they were front engined with narrow tyres and 
+
+litre naturally aspirated engines
+the and seasons were run to formula two regulations for smaller less powerful cars due to concerns over the lack of formula one cars available
+when a new formula one formula for engines limited to 
+litres was reinstated to the world championship for mercedes benz introduced their w the w featured things never seen on formula one cars before such as desmodromic valves fuel injection and enclosed streamlined bodywork
+mercedes drivers won the championship for the next two years before the team withdrew from all motorsport competitions due to the le mans disaster
+the first major technological development in the sport was bugattis introduction of mid engined cars
+jack brabham the world champion in and soon proved the mid engines superiority over all other engines and by all teams had switched to mid engined cars
+the ferguson p a four wheel drive design was the last front engined formula one car to enter a world championship race
+it was entered in the british grand prix the only front engined car to compete that year
+during lotus introduced a car with an aluminium sheet monocoque chassis instead of the traditional space frame design
+this proved to be the greatest technological breakthrough since the introduction of mid engined cars
+during brabham became the first team to show advertisements on their cars
+this introduced sponsorship to the sport
+five months later lotus followed brabhams example when they painted an imperial tobacco livery on their cars at the spanish grand prix
+aerodynamic downforce slowly gained importance in car design with the appearance of aerofoils during the late s during the late s lotus introduced ground effect aerodynamics previously used on jim halls chaparral j during that provided enormous downforce and greatly increased cornering speeds
+the aerodynamic forces pressing the cars to the track were up to five times the cars weight
+as a result extremely stiff springs were needed to maintain a constant ride height leaving the suspension virtually solid
+this meant that the drivers were depending entirely on the tyres for any small amount of cushioning of the car and driver from irregularities of the road surface
+beginning in the s bernie ecclestone rearranged the management of formula ones commercial rights he is widely credited with transforming the sport into the multibillion dollar business it now is
+when ecclestone bought the brabham team during he gained a seat on the formula one constructors association and during he became its president
+previously the circuit owners controlled the income of the teams and negotiated with each individually however ecclestone persuaded the teams to hunt as a pack through foca
+he offered formula one to circuit owners as a package which they could take or leave
+in return for the package almost all that was required was to surrender trackside advertising
+the formation of the fédération internationale du sport automobile fisa during set off the fisafoca war during which fisa and its president jean marie balestre argued repeatedly with foca over television revenues and technical regulations
+the guardian said that ecclestone and max mosley used foca to wage a guerrilla war with a very long term aim in view
+foca threatened to establish a rival series boycotted a grand prix and fisa withdrew its sanction from races
+the result was the concorde agreement which guaranteed technical stability as teams were to be given reasonable notice of new regulations
+although fisa asserted its right to the tv revenues it handed the administration of those rights to foca
+fisa imposed a ban on ground effect aerodynamics during 
+by then however turbocharged engines which renault had pioneered in were producing over kw bhp and were essential to be competitive
+by a bmw turbocharged engine achieved a flash reading of 
+bar psi pressure estimated to be over kw bhp in qualifying for the italian grand prix
+the next year power in race trim reached around kw bhp with boost pressure limited to only 
+
+these cars were the most powerful open wheel circuit racing cars ever
+to reduce engine power output and thus speeds the fia limited fuel tank capacity in and boost pressures in before banning turbocharged engines completely in 
+the development of electronic driver aids began during the s lotus began to develop a system of active suspension which first appeared during on the lotus 
+by this system had been perfected and was driven to victory by ayrton senna in the monaco grand prix that year
+in the early s other teams followed suit and semi automatic gearboxes and traction control were a natural progression
+the fia due to complaints that technology was determining the outcome of races more than driver skill banned many such aids for the season
+this resulted in cars that were previously dependent on electronic aids becoming very twitchy and difficult to drive
+observers felt the ban on driver aids was in name only as they proved difficult to police effectively
+the teams signed a second concorde agreement during and a third in 
+on the track the mclaren and williams teams dominated the s and s brabham were also being competitive during the early part of the s winning two drivers championships with nelson piquet
+powered by porsche honda and mercedes benz mclaren won sixteen championships seven constructors and nine drivers in that period while williams used engines from ford honda and renault to also win sixteen titles nine constructors and seven drivers
+the rivalry between racers ayrton senna and alain prost became fs central focus during and continued until prost retired at the end of 
+senna died at the san marino grand prix after crashing into a wall on the exit of the notorious curve tamburello
+the fia worked to improve the sports safety standards since that weekend during which roland ratzenberger also died in an accident during saturday qualifying
+no driver died of injuries sustained on the track at the wheel of a formula one car for years until the japanese grand prix where jules bianchi collided with a recovery vehicle after aquaplaning off the circuit dying nine months later from his injuries
+since three track marshals have died one at the italian grand prix the second at the australian grand prix and the third at the canadian grand prix
+since the deaths of senna and ratzenberger the fia has used safety as a reason to impose rule changes that otherwise under the concorde agreement would have had to be agreed upon by all the teams most notably the changes introduced for 
+this so called narrow track era resulted in cars with smaller rear tyres a narrower track overall and the introduction of grooved tyres to reduce mechanical grip
+the objective was to reduce cornering speeds and to produce racing similar to rainy conditions by enforcing a smaller contact patch between tyre and track
+this according to the fia was to reduce cornering speeds in the interest of safety
+results were mixed as the lack of mechanical grip resulted in the more ingenious designers clawing back the deficit with aerodynamic grip
+this resulted in pushing more force onto the tyres through wings and aerodynamic devices which in turn resulted in less overtaking as these devices tended to make the wake behind the car turbulent or dirty
+this prevented other cars from following closely due to their dependence on clean air to make the car stick to the track
+the grooved tyres also had the unfortunate side effect of initially being of a harder compound to be able to hold the grooved tread blocks which resulted in spectacular accidents in times of aerodynamic grip failure as the harder compound could not grip the track as well
+drivers from mclaren williams renault formerly benetton and ferrari dubbed the big four won every world championship from to 
+the teams won every constructors championship from to as well as placing themselves as the top four teams in the constructors championship in every season between and and winning every race but one the monaco grand prix between and 
+due to the technological advances of the s the cost of competing in formula one increased dramatically thus increasing financial burdens
+this combined with the dominance of four teams largely funded by big car manufacturers such as mercedes benz caused the poorer independent teams to struggle not only to remain competitive but to stay in business
+this effectively forced several teams to withdraw
+during this period the championship rules were changed frequently by the fia with the intention of improving the on track action and cutting costs
+team orders legal since the championship started during were banned during after several incidents in which teams openly manipulated race results generating negative publicity most famously by ferrari at the austrian grand prix
+other changes included the qualifying format the points scoring system the technical regulations and rules specifying how long engines and tyres must last
+a tyre war between suppliers michelin and bridgestone saw lap times fall although at the united states grand prix at indianapolis seven out of ten teams did not race when their michelin tyres were deemed unsafe for use leading to bridgestone becoming the sole tyre supplier to formula one for the season by default
+bridgestone then went on to sign a contract on december that officially made them the exclusive tyre supplier for the next three seasons
+during max mosley outlined a green future for formula one in which efficient use of energy would become an important factor
+starting in with fords purchase of stewart grand prix to form the jaguar racing team new manufacturer owned teams entered formula one for the first time since the departure of alfa romeo and renault at the end of 
+by the manufacturer teams renault bmw toyota honda and ferrari dominated the championship taking five of the first six places in the constructors championship
+the sole exception was mclaren which at the time was part owned by mercedes benz
+through the grand prix manufacturers association gpma the manufacturers negotiated a larger share of formula ones commercial profit and a greater say in the running of the sport
+in and honda bmw and toyota all withdrew from formula one racing within the space of a year blaming the economic recession
+this resulted in the end of manufacturer dominance within the sport
+the honda f team went through a management buyout to become brawn gp with ross brawn and nick fry running and owning the majority of the organisation
+brawn gp laid off hundreds of employees but eventually won the years world championships
+bmw f was bought out by the original founder of the team peter sauber
+the lotus f team were another formerly manufacturer owned team that reverted to privateer ownership together with the buy out of the renault team by genii capital investors
+a link with their previous owners still survived however with their car continuing to be powered by a renault engine until 
+the three teams that debuted in hispania racing f teamhrt formula team lotus racingteam lotuscaterham f team and virgin racingmarussia virgin racingmarussia f teammanor marussia f teammanor racing mrt all disappeared within seven years of their debuts mclaren also announced that it was to reacquire the shares in its team from mercedes benz mclarens partnership with mercedes was reported to have started to sour with the mclaren mercedes slr road car project and tough f championships which included mclaren being found guilty of spying on ferrari
+hence during the season mercedes benz re entered the sport as a manufacturer after its purchase of brawn gp and split with mclaren after seasons with the team
+during the season of formula one the sport was gripped by the fiafota dispute
+the fia president max mosley proposed numerous cost cutting measures for the following season including an optional budget cap for the teams teams electing to take the budget cap would be granted greater technical freedom adjustable front and rear wings and an engine not subject to a rev limiter
+the formula one teams association fota believed that allowing some teams to have such technical freedom would have created a two tier championship and thus requested urgent talks with the fia
+however talks broke down and fota teams announced with the exception of williams and force india that they had no choice but to form a breakaway championship series
+on june an agreement was reached between formula ones governing body and the teams to prevent a breakaway series
+it was agreed teams must cut spending to the level of the early s within two years exact figures were not specified and max mosley agreed he would not stand for re election to the fia presidency in october
+following further disagreements after max mosley suggested he would stand for re election fota made it clear that breakaway plans were still being pursued
+on july fota issued a press release stating they had been informed they were not entered for the season and an fia press release said the fota representatives had walked out of the meeting
+on august it was announced fia and fota had signed a new concorde agreement bringing an end to the crisis and securing the sports future until 
+to compensate for the loss of manufacturer teams four new teams were accepted entry into the season ahead of a much anticipated cost cap
+entrants included a reborn team lotus which was led by a malaysian consortium including tony fernandes the boss of air asia hispania racing the first spanish formula one team as well as virgin racing richard bransons entry into the series following a successful partnership with brawn the year before
+they were also joined by the us f team which planned to run out of the united states as the only non european based team in the sport
+financial issues befell the squad before they even made the grid
+despite the entry of these new teams the proposed cost cap was repealed and these teams who did not have the budgets of the midfield and top order teams ran around at the back of the field until they inevitably collapsed hrt in caterham formerly lotus in and manor formerly virgin then marussia having survived falling into administration in went under at the end of 
+a major rule shake up in saw the 
+litre naturally aspirated v engines replaced by 
+litre turbocharged hybrid power units
+this prompted honda to return to the sport in as the championships fourth engine manufacturer
+mercedes emerged as the dominant force after the rule shake up with lewis hamilton winning the championship closely followed by his main rival and teammate nico rosberg with the team winning out of the races that season
+in ferrari was the only challenger to mercedes with vettel taking victory in the three grands prix mercedes did not win
+in the season haas f team joined the grid
+the season began in dominant fashion for nico rosberg winning the first grands prix
+his charge was halted by max verstappen who took his maiden win in spain in his debut race for red bull
+after that the reigning champion lewis hamilton decreased the point gap between him and rosberg to only one point before taking the championship lead heading into the summer break
+following the break the positioning remained constant until an engine failure for hamilton in malaysia left rosberg in a commanding lead that he would not relinquish in the remaining races
+having won the title by a mere points rosberg retired from formula one at seasons end becoming the first driver since alain prost in to retire after winning the drivers championship
+this era has seen an increase in car manufacturer presence in the sport
+after hondas return as an engine manufacturer in renault came back as a team in after buying back the lotus f team
+in aston martin and alfa romeo became red bull and saubers title sponsors respectively
+sauber was rebranded as alfa romeo racing for the season while racing point part owner lawrence stroll bought a stake in aston martin to rebrand the racing point team as aston martin for 
+in august a new concorde agreement was signed by all ten f teams committing them to the sport until including a $m budget cap for car development to support equal competition and sustainable development in the future
+the covid pandemic forced the sport to adapt to budgetary and logistical limitations
+a significant overhaul of the technical regulations intended to be introduced in the season was pushed back to with constructors instead using their chassis for two seasons and a token system limiting which parts could be modified was introduced
+the start of the season was delayed by several months and both it and seasons were subject to several postponements cancellations and rescheduling of races due to the shifting restrictions on international travel
+many races took place behind closed doors and with only essential personnel present to maintain social distancing
+mercedes dominance began to be challenged by red bull in with the drivers championship going to red bull driver max verstappen after a controversial finish at the abu dhabi grand prix
+in a major rule and car design change was announced by the f governing body intended to promote closer racing through the use of ground effects new aerodynamics larger wheels with low profile tires and redesigned nose and wing regulations
+the constructors and drivers championships were won by red bull and verstappen respectively
+this marked the end of a dominant era for mercedes and hamilton with mercedes finishing rd and hamilton finishing th with the first winless season in his career
+main articles formula one racing formula one tyres racing flags and formula one regulationsa formula one grand prix event spans a weekend
+it typically begins with two free practice sessions on friday and one free practice on saturday
+additional drivers commonly known as third drivers are allowed to run on fridays but only two cars may be used per team requiring a race driver to give up their seat
+a qualifying session is held after the last free practice session
+this session determines the starting order for the race on sunday
+each driver may use no more than thirteen sets of dry weather tyres four sets of intermediate tyres and three sets of wet weather tyres during a race weekend
+for much of the sports history qualifying sessions differed little from practice sessions drivers would have one or more sessions in which to set their fastest time with the grid order determined by each drivers best single lap with the fastest getting first place on the grid referred to as pole position
+from to the format was a one hour shootout
+this approach lasted until the end of before the rules were changed again because the teams were not running in the early part of the session to take advantage of better track conditions later on
+grids were generally limited to cars if the race had more entries qualification would also decide which drivers would start the race
+during the early s the number of entries was so high that the worst performing teams had to enter a pre qualifying session with the fastest cars allowed through to the main qualifying session
+the qualifying format began to change in the early s with the fia experimenting with limiting the number of laps determining the aggregate time over two sessions and allowing each driver only one qualifying lap
+the current qualifying system was adopted in the season
+known as knock out qualifying it is split into three periods known as q q and q in each period drivers run qualifying laps to attempt to advance to the next period with the slowest drivers being knocked out of qualification but not necessarily the race at the end of the period and their grid positions set within the rearmost five based on their best lap times
+drivers are allowed as many laps as they wish within each period
+after each period all times are reset and only a drivers fastest lap in that period barring infractions counts
+any timed lap started before the end of that period may be completed and will count toward that drivers placement
+the number of cars eliminated in each period is dependent on the total number of cars entered into the championship
+currently with cars q runs for minutes and eliminates the slowest five drivers
+during this period any driver whose best lap takes longer than % of the fastest time in q will not be allowed to start the race without permission from the stewards
+otherwise all drivers proceed to the race albeit in the worst starting positions
+this rule does not affect drivers in q or q in q the remaining drivers have minutes to set one of the ten fastest times and proceed to the next period
+finally q lasts minutes and sees the remaining ten drivers decide the first ten grid positions
+at the beginning of the formula season the fia introduced a new qualifying format whereby drivers were knocked out every seconds after a certain amount of time had passed in each session
+the aim was to mix up grid positions for the race but due to unpopularity the fia reverted to the above qualifying format for the chinese gp after running the format for only two races
+each car is allocated one set of the softest tyres for use in q the cars that qualify for q must return them after q the cars that do not qualify for q can use them during the race
+as of all drivers are given a free choice of tyre to use at the start of the grand prix whereas in previous years only the drivers that did not participate in q had free tyre choice for the start of the race
+any penalties that affect grid position are applied at the end of qualifying
+grid penalties can be applied for driving infractions in the previous or current grand prix or for changing a gearbox or engine component
+if a car fails scrutineering the driver will be excluded from qualifying but will be allowed to start the race from the back of the grid at the race stewards discretion
+the race begins with a warm up lap after which the cars assemble on the starting grid in the order they qualified
+this lap is often referred to as the formation lap as the cars lap in formation with no overtaking although a driver who makes a mistake may regain lost ground
+the warm up lap allows drivers to check the condition of the track and their car gives the tyres a chance to warm up to increase traction and grip and also gives the pit crews time to clear themselves and their equipment from the grid for the race start
+once all the cars have formed on the grid after the medical car positions itself behind the pack a light system above the track indicates the start of the race five red lights are illuminated at intervals of one second they are all then extinguished simultaneously after an unspecified time typically less than seconds to signal the start of the race
+the start procedure may be abandoned if a driver stalls on the grid or on the track in an unsafe position signalled by raising their arm
+if this happens the procedure restarts a new formation lap begins with the offending car removed from the grid
+the race may also be restarted in the event of a serious accident or dangerous conditions with the original start voided
+the race may be started from behind the safety car if race control feels a racing start would be excessively dangerous such as extremely heavy rainfall
+as of the season there will always be a standing restart
+if due to heavy rainfall a start behind the safety car is necessary then after the track has dried sufficiently drivers will form up for a standing start
+there is no formation lap when races start behind the safety car
+under normal circumstances the winner of the race is the first driver to cross the finish line having completed a set number of laps
+race officials may end the race early putting out a red flag due to unsafe conditions such as extreme rainfall and it must finish within two hours although races are only likely to last this long in the case of extreme weather or if the safety car is deployed during the race
+when a situation justifies pausing the race without terminating it the red flag is deployed since a ten minute warning is given before the race is resumed behind the safety car which leads the field for a lap before it returns to the pit lane before then the race resumed in race order from the penultimate lap before the red flag was shown
+in the s race distances varied from km mi to km mi
+the maximum race length was reduced to km mi in and km mi in 
+the race length was standardised to the current km mi in 
+however street races like monaco have shorter distances to keep under the two hour limit
+drivers may overtake one another for position over the course of the race
+if a leader comes across a backmarker slower car who has completed fewer laps the back marker is shown a blue flag telling them that they are obliged to allow the leader to overtake them
+the slower car is said to be lapped and once the leader finishes the race is classified as finishing the race one lap down
+a driver can be lapped numerous times by any car in front of them
+a driver who fails to complete more than % of the race distance is shown as not classified in the results
+throughout the race drivers may make pit stops to change tyres and repair damage from to inclusive they could also refuel
+different teams and drivers employ different pit stop strategies in order to maximise their cars potential
+three dry tyre compounds with different durability and adhesion characteristics are available to drivers
+over the course of a race drivers must use two of the three available compounds
+the different compounds have different levels of performance and choosing when to use which compound is a key tactical decision to make
+different tyres have different colours on their sidewalls this allows spectators to understand the strategies
+under wet conditions drivers may switch to one of two specialised wet weather tyres with additional grooves one intermediate for mild wet conditions such as after recent rain one full wet for racing in or immediately after rain
+a driver must make at least one stop to use two tyre compounds up to three stops are typically made although further stops may be necessary to fix damage or if weather conditions change
+if rain tyres are used drivers are no longer obliged to use both types of dry tyres
+race director this role involves generally managing the logistics of each f grand prix inspecting cars in parc fermé before a race enforcing fia rules and controlling the lights which start each race
+as the head of the race officials the race director also plays a large role in sorting disputes among teams and drivers
+penalties such as drive through penalties and stop and go penalties demotions on a pre race start grid race disqualifications and fines can all be handed out should parties break regulations
+as of the race directors are niels wittich and eduardo freitas on an alternating basis with herbie blash as a permanent advisor
+safety car main article racing flags flags specifications and usage are prescribed by appendix h of the fias international sporting code
+flag meaning sc board safety car shown in conjunction with a yellow flag to indicate that the safety car is on track
+full course yellow flag applies
+drivers must hold position and slow down
+vsc board virtual safety car shown in conjunction with a yellow flag to indicate that the virtual safety car is in use
+during this time the drivers are given minimum sector times that they must stay above
+full course double yellow flag applies
+the cars time relative to this set time is measured at each marshalling post approximately every m and the difference is referred to as the cars delta time
+this delta time is reported to the driver and must remain positive throughout the vsc period else the driver will be penalised
+green normal racing conditions apply
+this is usually shown following a yellow flag to indicate that the hazard has been passed
+a green flag is shown at all stations for the lap following the end of a full course yellow or safety car
+a green flag is also shown at the start of a session
+yellow indicates a hazard on or near the track waved yellows indicate a hazard on the track frozen yellows indicate a hazard near the track
+double waved yellows inform drivers that they must slow down as marshals are working on or near to the track and drivers should be prepared to stop
+yellow and red striped slippery track due to oil water or loose debris
+can be seen rocked from side to side not waved to indicate a small animal on track
+blue a blue flag indicates that the driver in front must let faster cars behind them pass because they are being lapped
+if the flag is missed times the driver could be penalised
+accompanied by the drivers number
+white indicates that there is a slow car ahead either a race car or a course vehicle
+often waved at the end of the pit lane when a car is about to leave the pits
+black and orange circle car is damaged or has a mechanical problem must return to the pit lane immediately
+will be accompanied by drivers number half black half white warns a driver for poor sportsmanship or dangerous behaviour
+can be followed by a black flag upon further infringement
+accompanied by the drivers number
+black driver is disqualified
+will be accompanied by the drivers number
+this can be issued after a half black half white flag
+red a red flag immediately halts a race or session when conditions become too dangerous to continue
+chequered flag end of the practice qualifying or racing session
+the format of the race has changed little through formula ones history
+the main changes have revolved around what is allowed at pit stops
+in the early days of grand prix racing a driver would be allowed to continue a race in their teammates car should theirs develop a problem in the modern era cars are so carefully fitted to drivers that this has become impossible
+in recent years the emphasis has been on changing refuelling and tyre change regulations
+since the season refuelling which was reintroduced in has not been allowed to encourage less tactical racing following safety concerns
+the rule requiring both compounds of tyre to be used during the race was introduced in again to encourage racing on the track
+the safety car is another relatively recent innovation that reduced the need to deploy the red flag allowing races to be completed on time for a growing international live television audience
+main article list of formula one world championship points scoring systems st nd rd th th th th th th th * *a driver must finish within the top ten to receive a point for setting the fastest lap of the race
+if the driver who set the fastest lap finishes outside of the top ten then the point for fastest lap will not be awarded for that race
+various systems for awarding championship points have been used since 
+the current system in place since awards the top ten cars points in the drivers and constructors championships with the winner receiving points
+all points won at each race are added up and the driver and constructor with the most points at the end of the season are crowned world champions
+regardless of whether a driver stays with the same team throughout the season or switches teams all points earned by them count for the drivers championship
+a driver must be classified in order to receive points as of update a driver must complete at least % of the race distance in order to receive points
+therefore it is possible for a driver to receive points even if they retired before the end of the race
+from some time between the and seasons to the end of the season if less than % of the race laps were completed by the winner then only half of the points listed in the table were awarded to the drivers and constructors
+this has happened on only five occasions in the history of the championship and it had a notable influence on the final standing of the season
+the last occurrence was at the belgian grand prix when the race was called off after just three laps behind a safety car due to torrential rain
+the half points rule was replaced by a distance dependent gradual scale system for 
+see also list of formula one constructors list of formula one engine constructors and list of formula one world constructors champions a formula one constructor is the entity credited for designing the chassis and the engine
+if both are designed by the same company that company receives sole credit as the constructor eg
+
+if they are designed by different companies both are credited and the name of the chassis designer is placed before that of the engine designer eg
+
+all constructors are scored individually even if they share either chassis or engine with another constructor eg
+williams ford williams honda in 
+since formula one teams have been required to build the chassis in which they compete and consequently the distinction between the terms team and constructor became less pronounced though engines may still be produced by a different entity
+this requirement distinguishes the sport from series such as the indycar series which allows teams to purchase chassis and spec series such as formula which require all cars be kept to an identical specification
+it also effectively prohibits privateers which were common even in formula one well into the s the sports debut season saw eighteen teams compete but due to high costs many dropped out quickly
+in fact such was the scarcity of competitive cars for much of the first decade of formula one that formula two cars were admitted to fill the grids
+ferrari is the oldest formula one team the only still active team which competed in 
+early manufacturer involvement came in the form of a factory team or works team that is one owned and staffed by a major car company such as those of alfa romeo ferrari or renault
+ferrari holds the record for having won the most constructors championships sixteen
+companies such as climax repco cosworth hart judd and supertec which had no direct team affiliation often sold engines to teams that could not afford to manufacture them
+in the early years independently owned formula one teams sometimes also built their engines though this became less common with the increased involvement of major car manufacturers such as bmw ferrari honda mercedes benz renault and toyota whose large budgets rendered privately built engines less competitive
+cosworth was the last independent engine supplier
+it is estimated the major teams spend between € and € million $$ million per year per manufacturer on engines alone
+in the season for the first time since the rule two teams used chassis built by other teams
+super aguri started the season using a modified honda racing ra chassis used by honda the previous year while scuderia toro rosso used the same chassis used by the parent red bull racing team which was formally designed by a separate subsidiary
+the usage of these loopholes was ended for with the publication of new technical regulations which require each constructor to own the intellectual property rights to their chassis the regulations continue to allow a team to subcontract the design and construction of the chassis to a third party an option used by the hrt team in and haas currently
+although teams rarely disclose information about their budgets it is estimated they range from us$ million to us$ million each
+entering a new team in the formula one world championship requires a $ million up front payment to the fia which is then shared equally among the existing teams
+as a consequence constructors desiring to enter formula one often prefer to buy an existing team bars purchase of tyrrell and midlands purchase of jordan allowed both of these teams to sidestep the large deposit and secure the benefits the team already had such as tv revenue
+seven out of the ten teams competing in formula are based close to london in an area centred around oxford
+ferrari have both their chassis and engine assembly in maranello italy
+the alphatauri team are based close to ferrari in faenza whilst the alfa romeo team are based near zurich in switzerland
+see also list of formula one drivers list of formula one world drivers champions and list of formula one driver numbers every team in formula one must run two cars in every session in a grand prix weekend and every team may use up to four drivers in a season
+a team may also run two additional drivers in free practice sessions which are often used to test potential new drivers for a career as a formula one driver or gain experienced drivers to evaluate the car
+most drivers are contracted for at least the duration of a season with driver changes taking place in between seasons in comparison to early years when drivers often competed on an ad hoc basis from race to race
+each competitor must be in the possession of a fia super licence to compete in a grand prix which is issued to drivers who have met the criteria of success in junior motorsport categories and having achieved kilometres mi of running in a formula one car
+drivers may also be issued a super licence by the world motor sport council if they fail to meet the criteria
+although most drivers earn their seat on ability commercial considerations also come into play with teams having to satisfy sponsors and financial demands
+teams also contract test and reserve drivers to stand in for regular drivers when necessary and develop the teams car although with the reduction on testing the reserve drivers role mainly takes places on a simulator such as rfactor pro which is used by most of the f teams
+each driver chooses an unassigned number from to excluding which was retired following the death of jules bianchi upon entering formula one and keeps that number during their time in the series
+the number one is reserved for the reigning drivers champion who retains their previous number and may choose to use it instead of the number one
+at the onset of the championship numbers were allocated by race organisers on an ad hoc basis from race to race
+permanent numbers were introduced in to take effect in when teams were allocated numbers in ascending order based on the constructors championship standings at the end of the season
+the teams would hold those numbers from season to season with the exception of the team with the world drivers champion which would swap its numbers with the one and two of the previous champions team
+new entrants were allocated spare numbers with the exception of the number which had been unused since 
+as teams kept their numbers for long periods of time car numbers became associated with a team such as ferraris and 
+a different system was used from to at the start of each season the current drivers champion was designated number one their teammate number two and the rest of the teams assigned ascending numbers according to previous seasons constructors championship order
+as of the conclusion of the championshipupdate a total of separate drivers have won the world drivers championship with michael schumacher and lewis hamilton holding the record for most championships with seven
+lewis hamilton achieved the most race wins too in 
+jochen rindt is the only posthumous world champion after his points total was not surpassed despite his fatal accident at the italian grand prix with races still remaining in the season
+drivers from the united kingdom have been the most successful in the sport with championships among drivers and wins
+most f drivers start in kart racing competitions and then come up through traditional european single seater series like formula ford and formula renault to formula and finally the gp series
+gp started in replacing formula which itself had replaced formula two as the last major stepping stone into f gp was rebranded as the fia formula championship in 
+most champions from this level graduate into f but gp champion lewis hamilton became the first f f or gp champion to win the formula one drivers title in 
+drivers are not required to have competed at this level before entering formula one
+british f has supplied many f drivers with champions including nigel mansell ayrton senna and mika häkkinen having moved straight from that series to formula one and max verstappen made his f debut following a single season in european f more rarely a driver may be picked from an even lower level as was the case with world champion kimi räikkönen who went straight from formula renault to f american open wheel car racing has also contributed to the formula one grid
+cart champions mario andretti and jacques villeneuve became f world champions while juan pablo montoya won seven races in f other cart also known as champcar champions like michael andretti and alessandro zanardi won no races in f other drivers have taken different paths to f damon hill raced motorbikes and michael schumacher raced in sports cars albeit after climbing through the junior single seater ranks
+former f driver paul di resta raced in dtm until he was signed with force india in 
+see also list of formula one grands prix the number of grands prix held in a season has varied over the years
+the inaugural world championship season comprised only seven races while the season contained races
+there were no more than grands prix per season during the early decades of the championship although a large number of non championship formula one events also took place
+the number of grands prix increased to an average of to by the late s while non championship events ended in 
+more grands prix began to be held in the s and recent seasons have seen an average of races
+in and the calendar peaked at events the highest number of world championship races in one season
+six of the original seven races took place in europe the only non european race that counted towards the world championship in was the indianapolis which was held to different regulations and later replaced by the united states grand prix
+the f championship gradually expanded to other non european countries
+argentina hosted the first south american grand prix in and morocco hosted the first african world championship race in 
+asia and oceania followed japan in and australia in and the first race in the middle east was held in 
+the races of the season were spread over every populated continent except for africa with grands prix held outside europe
+some of the grands prix pre date the formation of the world championship such as the french grand prix and were incorporated into the championship as formula one races in 
+the british and italian grands prix are the only events to have been held every formula one season other long running races include the belgian german and french grands prix
+the monaco grand prix was first held in and has run continuously since with the exception of and is widely considered to be one of the most important and prestigious automobile races in the world
+all grands prix have traditionally been run during the day until the inaugural singapore grand prix hosted the first formula one night race in which was followed by the daynight abu dhabi grand prix in and the bahrain grand prix which converted to a night race in 
+other grands prix in asia have had their start times adjusted to benefit the european television audience
+bold denotes the grands prix scheduled as part of the season
+european grand prix at valencia street circuit united states grand prix at circuit of the americas present austrian grand prix at red bull ring present mexican grand prix at autódromo hermanos rodríguez renamed mexico city grand prix present european grand prix at baku city circuit renamed the azerbaijan grand prix for present french grand prix at circuit paul ricard portuguese grand prix at algarve international circuit a imola circuit with the emilia romagna grand prix present previously hosted the italian grand prix and the san marino grand prixb dutch grand prix at circuit zandvoort present bold denotes the grands prix scheduled as part of the season
+since the formula one group has been targeting new destination cities to expand its global reach with the aim to produce races from countries that have not previously been involved in the sport
+this initiative started with the singapore grand prix
+race years circuit notes marina bay street circuit first race to take place outside of daylight hours
+and races cancelled due to covid pandemic
+yas marina circuit korea international circuit discontinued due to poor attendance figures
+buddh international circuit discontinued due to local government tax classification dispute
+sochi autodrom the russian grand prix was due to move to igora drive from 
+this move and the russian grand prix were cancelled following the russian invasion of ukraine
+baku city circuit previously called the european grand prix in 
+race cancelled due to covid pandemic
+jeddah corniche circuit losail international circuit called in last minute to replace the australian grand prix
+
+miami international autodrome below is a list for grands prix contracted to join or return to the calendar in upcoming seasons
+race years circuit target calendar entry current status losail international circuit confirmed hosted in due to return in so qatar can focus on hosting world cup las vegas street circuit confirmed see also list of formula one circuits a typical circuit features a stretch of straight road on which the starting grid is situated
+the pit lane where the drivers stop for tyres aerodynamic adjustments and minor repairs such as changing the cars nose due to front wing damage during the race retirements from the race and where the teams work on the cars before the race is normally located next to the starting grid
+the layout of the rest of the circuit varies widely although in most cases the circuit runs in a clockwise direction
+those few circuits that run anticlockwise and therefore have predominantly left handed corners can cause drivers neck problems due to the enormous lateral forces generated by f cars pulling their heads in the opposite direction to normal
+a single race requires hotel rooms to accommodate at least visitors
+most of the circuits currently in use are specially constructed for competition
+the current street circuits are monaco melbourne singapore baku miami and jeddah although races in other urban locations come and go las vegas and detroit for example and proposals for such races are often discussed most recently las vegas
+the glamour and history of the monaco race are the primary reasons why the circuit is still in use even though it does not meet the strict safety requirements imposed on other tracks
+three time world champion nelson piquet famously described racing in monaco as like riding a bicycle around your living room
+circuit design to protect the safety of drivers is becoming increasingly sophisticated as exemplified by the bahrain international circuit added in and designed like most of fs new circuits by hermann tilke
+several of the new circuits in f especially those designed by tilke have been criticised as lacking the flow of such classics as spa francorchamps and imola
+his redesign of the hockenheim circuit in germany for example while providing more capacity for grandstands and eliminating extremely long and dangerous straights has been frowned upon by many who argue that part of the character of the hockenheim circuits was the long and blinding straights into dark forest sections
+these newer circuits however are generally agreed to meet the safety standards of modern formula one better than the older ones
+the circuit of the americas in austin the sochi autodrom in sochi and the baku city circuit in azerbaijan have all been introduced as brand new tracks since 
+in algarve international circuit debuted on the f calendar as the venue of the portuguese grand prix with the country having last hosted a race in a in circuit zandvoort returned to the f calendar as the dutch grand prix having last hosted a race in 
+main articles formula one car formula one engines and formula one tyres modern formula one cars are mid engined hybrid semi open cockpit open wheel single seaters
+the chassis is made largely of carbon fibre composites rendering it light but extremely stiff and strong
+the whole car including the driver but not fuel weighs only kg lb the minimum weight set by the regulations
+if the construction of the car is lighter than the minimum it can be ballasted up to add the necessary weight
+the race teams take advantage of this by placing this ballast at the extreme bottom of the chassis thereby locating the centre of gravity as low as possible in order to improve handling and weight transfer
+the cornering speed of formula one cars is largely determined by the aerodynamic downforce that they generate which pushes the car down onto the track
+this is provided by wings mounted at the front and rear of the vehicle and by ground effect created by low air pressure under the flat bottom of the car
+the aerodynamic design of the cars is very heavily constrained to limit performance
+the previous generation of cars sported a large number of small winglets barge boards and turning vanes designed to closely control the flow of the air over under and around the car
+the other major factor controlling the cornering speed of the cars is the design of the tyres
+from to the tyres in formula one were not slicks tyres with no tread pattern as in most other circuit racing series
+instead each tyre had four large circumferential grooves on its surface designed to limit the cornering speed of the cars
+slick tyres returned to formula one in the season
+suspension is double wishbone or multilink front and rear with pushrod operated springs and dampers on the chassis one exception being that of the specification red bull racing car rb which used pullrod suspension at the rear the first car to do so since the minardi ps in 
+ferrari used a pullrod suspension at both the front and rear in their car
+both ferrari f and mclaren mp of the season used a pullrod suspension at both the front and the rear
+in mclaren mcl and red bull racing rb switched to a pullrod front suspension and push rod rear suspension
+carbon carbon disc brakes are used for reduced weight and increased frictional performance
+these provide a very high level of braking performance and are usually the element that provokes the greatest reaction from drivers new to the formula
+in the technical regulations changed considerably in order to reduce the turbulence commonly referred to as dirty air produced by the aerodynamics of the car
+this includes a redesigned front and rear wing larger wheels with a lower tyre profile wheel covers small winglets the banning of barge boards and the reintroduction of ground effect downforce production
+these have been changed to promote racing meaning cars lose less downforce when following another car
+it allows cars to follow another at a much closer distance without extending the gap due to the turbulent air
+see formula one world championship technical regulations formula one cars must have four wheels made of the same metallic material which must be one of two magnesium alloys specified by the fia
+magnesium alloy wheels made by forging are used to achieve maximum unsprung rotating weight reduction
+as of the wheels are covered with spec standardised wheel covers the wheel diametre has increased from inches to inches reducing the tyre profile and small winglets have been placed over the front tyres
+starting with the formula season the engines have changed from a 
+litre naturally aspirated v to turbocharged 
+litre v power units
+these get a significant amount of their power from electric motors
+in addition they include a lot of energy recovery technology
+engines run on unleaded fuel closely resembling publicly available petrol
+the oil which lubricates and protects the engine from overheating is very similar in viscosity to water
+the generation of engines spun up to rpm and produced over kw bhp
+for engines were restricted to rpm with limited development areas allowed following the engine specification freeze since the end of 
+for the formula one season the engines were further restricted to rpm
+a wide variety of technologies including active suspension are banned under the current regulations
+despite this the current generation of cars can reach speeds in excess of kmh mph at some circuits
+the highest straight line speed recorded during a grand prix was 
+
+mph set by juan pablo montoya during the italian grand prix
+a bar honda formula one car running with minimum downforce on a runway in the mojave desert achieved a top speed of kmh mph in 
+according to honda the car fully met the fia formula one regulations
+even with the limitations on aerodynamics at kmh mph aerodynamically generated downforce is equal to the weight of the car and the oft repeated claim that formula one cars create enough downforce to drive on the ceiling while possible in principle has never been put to the test
+
+times the cars weight can be achieved at full speed
+the downforce means that the cars can achieve a lateral force with a magnitude of up to 
+times that of the force of gravity g in cornering
+consequently the drivers head is pulled sideways with a force equivalent to the weight of kg in corners
+such high lateral forces are enough to make breathing difficult and the drivers need supreme concentration and fitness to maintain their focus for the one to two hours that it takes to complete the race
+a high performance road car like the enzo ferrari only achieves around g as of update each team may have no more than two cars available for use at any time
+each driver may use no more than four engines during a championship season unless they drive for more than one team
+if more engines are used they drop ten places on the starting grid of the event at which an additional engine is used
+the only exception is where the engine is provided by a manufacturer or supplier taking part in its first championship season in which case up to five may be used by a driver
+each driver may use no more than one gearbox for six consecutive events every unscheduled gearbox change requires the driver to drop five places on the grid unless they failed to finish the previous race due to reasons beyond the teams control
+as of update each driver is limited to three power units per season before incurring grid penalties
+this section needs to be updated
+the reason given is needs update to account for the ban in private testing and cost caps estimated budget split of a formula one team based on the season in march f racing published its annual estimates of spending by formula one teams
+the total spending of all eleven teams in was estimated at $
+
+this was broken down as follows toyota $
+
+m mclaren $ m honda $
+m bmw sauber $ m renault $ m red bull $ m williams $
+m midland fspyker mf $ m toro rosso $ m and super aguri $ million
+costs vary greatly from team to team
+honda toyota mclaren mercedes and ferrari were estimated to have spent approximately $ million on engines in renault spent approximately $ million and cosworths v was developed for $ million
+in contrast to the season on which these figures are based the sporting regulations banned all performance related engine development
+formula one teams pay entry fees of $ plus $ per point scored the previous year or $ per point for the winner of the constructors championship
+formula one drivers pay a fia super licence fee which in was € plus € per point
+there have been controversies with the way profits are shared among the teams
+the smaller teams have complained that the profits are unevenly shared favouring established top teams
+in september force india and sauber officially lodged a complaint with the european union against formula one questioning the governance and stating that the system of dividing revenues and determining the rules is unfair and unlawful
+the cost of building a brand new permanent circuit can be up to hundreds of millions of dollars while the cost of converting a public road such as albert park into a temporary circuit is much less
+permanent circuits however can generate revenue all year round from leasing the track for private races and other races such as motogp
+the shanghai international circuit cost over $ million and the istanbul park circuit cost $ million to build
+a number of formula one drivers earn the highest salary of any drivers in auto racing
+the highest paid driver in is lewis hamilton who received $ million in salary from mercedes amg petronas f a record for any driver
+the very top formula one drivers get paid more than indycar or nascar drivers however the earnings immediately fall off after the top three f drivers and the majority of nascar racers will make more money than their f counterparts
+most top indycar drivers are paid around a tenth of their formula one counterparts
+in the second quarter of formula one reported a loss revenue of $ million and an income of $ million
+this was a result of the delay of the racing championship start as a result of the covid pandemic
+the company grossed revenues of $ million for the same quarter the previous year
+the expense of formula one has seen the fia and the formula one commission attempt to create new regulations to lower the costs for a team to compete in the sport
+following their purchase of the commercial rights to the sport in liberty media announced their vision for the future of formula one at the bahrain grand prix
+the proposal identified five key areas including streamlining the governance of the sport emphasising cost effectiveness maintaining the sports relevance to road cars and encouraging new manufacturers to enter the championship whilst enabling them to be competitive
+liberty cited as their target date as it coincided with the need to renew commercial agreements with the teams and the end of the seven year cycle of engine development that started in 
+on august it was announced that all teams had signed the new concorde agreement
+this came into effect at the start of the season and changed how prize money and tv revenue is distributed
+when i get out of the car of course im thinking as well is this something we should do travel the world wasting resources?
+—sebastian vettel four time champion voicing concerns on formula ones impact on climate change
+formula one has launched a plan to become carbon neutral by 
+by all events should become sustainable including eliminating single use plastics and ensuring all waste is reused recycled or composted
+in january fia and formula one signed the united nations sports for climate action framework
+after the signing was announced fia president jean todt said as an international federation comprising members in countries and the leader in motor sport and mobility development we are fully committed to global environmental protection
+the signing of this un sports for climate action framework reinforces the momentum that has been growing in our federation for many years
+since the introduction of the hybrid power unit in f to the creation of the environment and sustainability commission the entire fia community has been investing time energy and financial resources to the benefit of environmental innovations
+we aim to inspire greater awareness and best practice in sustainability motor sport standards
+from the season all cars will increase the bio component of their fuel using e fuel rather than the % of ethanol currently used
+this percentage is expected to grow again in the future
+in december the fia claimed that it had developed a fuel with % sustainability to be used in formula one from either or when new engine regulations come into force
+prior to the beginning of the formula one world championship f announced and launched the #weraceasone initiative
+the initiative primarily focuses on visible displays of solidarity in the fight against racism on grand prix weekends as well as the creation of a formula task force that will listen to people from across the paddock  and make conclusions on the actions required to improve the diversity and opportunity in formula at all levels
+the move spurs from the growing questions about racism and global inequalities perpetuated by the sport
+the year history of the world championship has been dominated by european and white drivers with the first and only black driver winning the world championship in 
+in addition to organization wide measures individual teams have also acknowledged deficiencies in the sports cultural and political activism
+during the season the mercedes amg petronas f team conducted a study of its racial composition and found that approximately % of its workforce was white
+due to the results of the study the team changed the cars livery to promote anti racism messages and also launched the accelerate programme
+the program vows that approximately % of all new hires to the team will come from underrepresented minorities in the sport until 
+the drivers on the grid have also stood in solidarity on multiple occasions in the fight against racism both on and off the track
+following the murder of george floyd in the summer of all twenty drivers wore end racism shirts and took part in an organised anti racism protest during the pre race formalities
+in the year since lewis hamilton has remained vocal in his pre race attire with other drivers occasionally wearing change demanding clothing
+specifically sebastian vettel sported a rainbow colored shirt with the words same love ahead of the hungarian grand prix in an effort to bring awareness to hungarys anti lgbt law
+see also list of formula one broadcasters formula one can be seen live or tape delayed in almost every country and territory and attracts one of the largest global television audiences
+the season attracted a global audience of million people per race
+the cumulative television audience was calculated to be billion for the season broadcast to territories
+during the early s formula one group created a number of trademarks an official logo an official tv graphics package and in an official website for the sport in an attempt to give it a corporate identity
+tv stations all take what is known as the world feed either produced historically by the host broadcaster or by formula one management fom
+the host broadcaster either had one feed for all or two separate feeds a feed for local viewers and a feed for international viewers
+the one size fits all approach meant that there was bias to a certain team or driver during the event which led to viewers missing out on more important action and incidents while the two feed approach meant that replays for when returning from an ad break and local bias action could be overlaid on the local feed while the international feed was left unaffected
+the only station that differed from this set up was df re branded to premiere then to sky deutschland a german channel which offers all sessions live and interactive with features such as the onboard and pit lane channels
+this service was purchased by bernie ecclestone at the end of and became f digital plus which was made more widely available around europe until the end of when the cost of the digital interactive service was thought too much
+on january f announced that it would adopt the hd format for the season
+it was announced on july that sky sports and the bbc would team up to show the races in f from to 
+sky launched a dedicated channel sky sports f which covered all races live without commercial interruption as well as live practice and qualifying sessions along with f programming including interviews archive action and magazine shows
+in the bbc broadcast live coverage of half of the races in the season
+the bbc ended its television contract after the season three years earlier than planned
+the free to air tv rights were picked up by channel until the end of the season
+sky sports f coverage remained unaffected and bbc radio live and live sports extra coverage was extended until 
+as of bbc radio and live has rights to such coverage until 
+while sky sports and channel are the two major broadcasters of formula other countries show formula one races
+many use commentary from either sky sports or channel 
+in most of asia excluding china the two main broadcasters of formula one include the fox network and star sports in india
+in the united states espn holds the official rights to broadcast the sport while abc also holds free to air rights for some races under the espn on abc banner
+in germany austria and switzerland the two main broadcasters are rtl germany and n tv
+in china there are multiple channels that broadcast formula one which include cctv tencent guangdong tv and shanghai tv
+currently in france the only channel that broadcasts formula one is the pay tv channel canal+ having renewed its broadcasting rights until 
+the official formula one website has live timing charts that can be used during the race to follow the leaderboard in real time
+an official application has been available for the apple app store since and on google play since that shows users a real time feed of driver positions timing and commentary
+on november formula one unveiled a new logo which replaced the previous flying one in use since 
+in march fom announced the launch of f tv an over the top ott streaming platform that lets viewers watch multiple simultaneous video feeds and timing screens in addition to traditional directed race footage and commentary
+currently the terms formula one race and world championship race are effectively synonymous
+since every formula one race has counted towards the world championship and every world championship race has been run to formula one regulations
+however the two terms are not interchangeable
+the first formula one race was held in whereas the world championship did not start until 
+in the s and s there were many formula one races that did not count for the world championship eg
+in a total of twenty two formula one races were held of which only six counted towards the world championship
+the number of non championship formula one events decreased throughout the s and s to the point where the last non championship formula one race was the race of champions
+the world championship was not always exclusively composed of formula one events the world championship was originally established as the world championship for drivers ie
+without the term formula one in the title
+it only officially became the fia formula one world championship in 
+from to the indianapolis race counted towards the world championship
+this race was run to american automobile association and later united states automobile club championship car regulations rather than to formula one regulations
+only one of the world championship regulars alberto ascari in started at indianapolis during this period
+from to all races counting towards the world championship except the indianapolis were run to formula two regulations
+formula one was not changed to formula two during this period the formula one regulations remained the same and numerous non championship formula one races were staged during this time
+the distinction is most relevant when considering career summaries and all time lists
+for example in the list of formula one drivers clemente biondetti is shown with a single race against his name
+biondetti actually competed in four formula one races in but only one of these counted for the world championship
+similarly several indianapolis winners technically won their first world championship race though most record books ignore this and instead only record regular world championship participants
+in the earlier history of formula one many races took place outside the world championship and local championships run to formula one regulations also occurred
+these events often took place on circuits that were not always suitable for the world championship and featured local cars and drivers as well as those competing in the championship
+in the early years of formula one before the world championship was established there were around twenty races held from late spring to early autumn in europe although not all of these were considered significant
+most competitive cars came from italy particularly alfa romeo
+after the start of the world championship these non championship races continued
+in the s and s there were many formula one races which did not count for the world championship in a total of twenty two formula one races were held of which only six counted towards the world championship
+in and when the world championship was run to formula two regulations non championship events were the only formula one races that took place
+some races particularly in the uk including the race of champions oulton park international gold cup and the international trophy were attended by the majority of the world championship contenders
+other smaller events were regularly held in locations not part of the championship such as the syracuse and danish grands prix although these only attracted a small amount of the championship teams and relied on private entries and lower formula cars to make up the grid
+these became less common through the s and saw the last non championship formula one race the race of champions at brands hatch won by reigning world champion keke rosberg in a williams cosworth in a close fight with american danny sullivan
+main article south african formula one championship south africas flourishing domestic formula one championship ran from through to 
+the frontrunning cars in the series were recently retired from the world championship although there was also a healthy selection of locally built or modified machines
+frontrunning drivers from the series usually contested their local world championship grand prix as well as occasional european events although they had little success at that level
+main article british formula one championship the dfv helped make the uk domestic formula one championship possible between and 
+as in south africa a decade before second hand cars from manufacturers like lotus and fittipaldi automotive were the order of the day although some such as the march were built specifically for the series
+in the series saw south african desiré wilson become the only woman to win a formula one race when she triumphed at brands hatch in a wolf wr
+formula one video games arron simon & hughes mark 
+the complete book of formula one
+
+
+gross nigel et al
+
+grand prix motor racing
+in years of change speed and power pp
+
+
+hayhoe david & holland david 
+grand prix data book th edition
+
+isbn x higham peter 
+the international motor racing guide
+david bull phoenix az usa
+isbn x inside f formulacom
+
+
+the ultimate encyclopedia of formula one
+
+
+formula one the complete stats and records of grand prix racing
+
+
+the official itv sport guide formula one grand prix 
+
+includes foreword by martin brundle
+
+
+the guide to fia formula one world championship the worlds bestselling grand prix guide
+
+
+
+
+
+
+
+the great encyclopedia of formula th edition
+
+
+
+
+
+grand prix whos who rd edition
+
+
+tremayne david & hughes mark 
+the concise encyclopedia of formula one
+
+formula regulations categories for international racing in northey tom ed
+the world of automobiles volume pp
+
+
+links to related articles vteformula one teams 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alexander albon vteformula one seasons vteformula one grands prixcurrent bahrain saudi arabian australian azerbaijan miami emilia romagna monaco spanish canadian austrian british hungarian belgian dutch italian singapore japanese qatar united states mexico city são paulo las vegas abu dhabi returning chinese former th anniversary argentine brazilian caesars palace dallas detroit eifel european french german indian indianapolis korean luxembourg malaysian mexican moroccan pacific pescara portuguese russian sakhir san marino south african styrian swedish swiss turkish tuscan united states west vteformula one circuits presentcurrent sakhir jeddah melbourne baku miami imola monte carlo catalunya montreal spielberg silverstone hungaroring spa francorchamps zandvoort monza singapore suzuka lusail austin mexico city interlagos las vegas yas marina returning shanghai former adelaide aida okayama ain diab aintree algarve anderstorp avus boavista brands hatch bremgarten buddh buenos aires caesars palace clermont ferrand dallas detroit dijon donington park east london estoril fuji hockenheimring indianapolis istanbul jacarepaguá jarama jerez kyalami le mans bugatti long beach magny cours monsanto montjuïc mont tremblant mosport mugello nivelles baulers nürburgring paul ricard pedralbes pescara phoenix reims riverside rouen sebring sepang sochi valencia watkins glen yeongam zeltweg zolder vteformula one constructors season alfa romeo results alphatauri alpine aston martin ferrari results haas mclaren results mercedes results red bull results williams results former afm ags alta amon andrea moda apollon arrows results arzani volpini aston butterworth ats italy ats germany bar behra porsche bellasi benetton results bmw results boro brabham results brawn brm results brp bugatti results caterham cisitalia coloni connaught connew cooper results dallara de tomaso derrington francis eagle eifelland emeryson emw enb ensign era eurobrun ferguson fittipaldi fondmetal footwork force india results force india racing point forti results frazer nash fry gilby gordini greifzu hesketh hill honda results hrt hwm jaguar jbw jordan results kauhsen klenk kojima kurtis kraft lancia larrousse lds lec leyton house life ligier lola lola haas lola mastercard lotus results lotus lotus lyncar maki march results martini marussia maserati results matra mbm mcguire merzario midland milano minardi modena mrt onyx osca osella pacific parnelli penske results porsche results prost protos racing point ram realpha rebaque renault results reynard rial sauber results scarab scirocco shadow shannon simtek spirit spyker stebro stewart super aguri surtees sva talbot lago tec mec tecno theodore toro rosso results token toleman toyota trojan tyrrell results vanwall veritas virgin williams fwrc wolf zakspeed proposed andretti cadillac audi dams direxiv dome first phoenix prodrive stefan us f vteformula one drivers by country argentina australia austria belgium brazil canada chile china colombia czech republic denmark east germany finland france germany hungary india indonesia ireland italy japan liechtenstein malaysia mexico monaco morocco netherlands neutral new zealand poland portugal rhodesia russia south africa spain sweden switzerland thailand united kingdom united states uruguay venezuela vteformula one world drivers champions vteformula one world constructors champions vtefia fia world motor sport council fia hall of fame commission internationale de karting fia institute young driver excellence academy fia contract recognition board fia foundation for the automobile and society international sporting code fia world championships formula one formula formula formula e world endurance championship world rally championship wrc wrc junior wrc world rallycross championship world rally raid championship world cup for cross country bajas world karting championship touring fia european championships formula regional european championship masters historic formula one championship european rally championship european rallycross championship european autocross championship european hill climb championship european truck racing championship european drag racing championship european cup for cross country bajas european karting championship presidents étienne van zuylen van nyevelt robert de vogüé jehan de rohan chabot hadelin de liedekerke beaufort filippo caracciolo di castagneto wilfred andrews amaury de merode paul alfons von metternich winneburg jean marie balestre max mosley jean todt mohammed ben sulayem present fia drivers categorisation platinum gold silver bronze fia motorsport games others list of fia events list of fia member organisations fia super licence fia global pathway fia heritage certificate fia historic technical passport vteclasses of auto racingformula racingactive f f f f f formula formula atlantic formula car challenge formula continental formula e formula enterprises formula ford ff formula regional gb formula vee indycar super formula supermodified boss gp tasman series monoposto racing club v de v challenge monoplace defunct f f formula a scca formula b scca formula c scca fcj formula dream formula holden formula junior formula libre formula mondial formula pacific formula super vee australian national formula grand prix masters grand prix motor racing one make formulaeactive cfgp ferrari challenge formula car challenge formula enterprise formula renault l global mx cup indy lights lamborghini super trofeo mrf challenge porsche carrera cup srf toyota racing series usf usf juniors fia formula championship s w series defunct agp adac formel masters audi lms auto gp barber pro fa formula asia formula abarth alfa bmw chrysler könig lgb swift hyundai lightning maruti masters china russia mazda nissan opelvauxhall palmer audi rus rolon grand prix masters gp gp international formula master trofeo maserati superleague formula karting kf kf kf kz kz superkart electric touring car racingactive etcr btcc dtm group f group g group h super diesel ngtc tcn tcr tcn stock car brasil stock car light supercars súper tc defunct wtcr appendix j btc t group group group group a group c group e group n aus group s class class superstars vstar wtcc stock car racingactive arca allison legacy series imca sport compact late model legends modifieds nascar cup xfinity truck pintys whelen euro series peak mexico super stock street stock superstar racing experience turismo carretera defunct ascar racing series auscar oval brisca f brisca f v hotstox hot rods superstocks sprint car racing midget car racing quarter midget racing rallyingactive groups rally group rally group rally group rally group rally group rally group r gt group n super defunct group group group group a group b group s group r r super world rally car sports prototypesactive lmdh lmh lmp lmp lmp clubmans group cn defunct dp dpi group group group group group group a group c gc gc imsa gtp era lmp lmp lmpc s grand touringactive lm gte gt gt gt gt gt trans am defunct group group group group b group d gt gt gt imsa aagt gtogts gtu gtx appendix k group d gt cars drag racingactive top fuel dragster tfd funny car tffc top alcohol dragster tad funny car tafc pro stock ps pro modified pro mod gas super stock super compquick rod top doorslammer altered competition defunct top gas modified pro fwd off road baja bug dune buggy rallycross autocross trophy truck group t group t group t group t group t truggy side by side utv vteworld championships list of world sports championships olympic sportsteam association football men mens club women womens club baseball men women basketball men women x basketball club beach volleyball curling mixed doubles mixed field hockey men women handball men women ice hockey men women rugby s softball men women volleyball men mens club women womens club water polo men women individual archery aquatic sports athletics outdoor race walking badminton men women mixed individual biathlon bobsleigh and skeleton boxing amateur canoeing slalom sprint cycling bmx mountain biking road track urban dance sport breakdancing equestrianism dressage eventing show jumping fencing golf men women gymnastics artistic rhythmic trampoline ice skating figure short track speed judo luge artificial track natural track modern pentathlon rowing sailing olympic class combined worlds shooting skateboarding skiing alpine nordic freestyle snowboarding sport climbing surfing table tennis taekwondo tennis men women triathlon mixed relay weightlifting wrestling discontinued basque pelota croquet karate lacrosse men women polo rackets real tennis tug of war outdoor indoor paralympic sportsteam blind football para ice hockey wheelchair basketball wheelchair handball wheelchair rugby wheelchair curling mixed team goalball sitting volleyball individual archery athletics badminton bobsleigh and skeleton climbing cycling track cycling road cycling powerlifting shooting snowboard skiing alpine nordic swimming table tennis combat sports kendo kickboxing muaythai sambo sumo wrestling beach wrestling wushu cue sports carom billiards three cushion men women team five pins individual team artistic english billiards amateurs women pool blackball chinese eight ball eight ball men nine ball women nine ball team nine ball pyramid ten ball straight pool snooker men women team amateurs six red mind sports backgammon bridge chess open women team draughts men women checkers draughts draughts women go puzzles scrabble sudoku xiangqi motorsportauto racing formula e formula one hill climb karting rallying rally rally rallycross rally raid bajas sports car endurance touring car motorcycle sports endurance enduro superenduro hard enduro team endurance ice racing individual team grand prix motogp moto moto motocross individual women nations supercross supermotocross sidecarcross snowcross motoe production superbike supersport supersport rally raid bajas sidecar speedway individual team long track team long track flat track supermoto team trial nations indoor nations e bike cross enduro other aeroplane sport aerobatic aerobatic gp powerboating aquabike f fs offshore radio controlled racing tank biathlon discontinued air racing sports car sprint other sportsteam american football men women australian football baseball ball hockey men women bandy men mens club women womens club cricket test odi men odi women t men t women beach handball beach soccer beach tennis canoe polo dancesport formation latin dodgeball fistball men women flag football floorball men women futsal men women mens club women indoor hockey men women indoor soccer inline hockey kabaddi korfball lacrosse indoor life saving netball padel tennis quidditch ringette rogaining roll ball roller derby men women roller hockey men women rugby league men mens club women rugby union men women sailing yachts dinghies sepaktakraw synchronized skating tchoukball underwater hockey underwater rugby individual air sports ballooning gliding parachuting paragliding aquatics water skiing armwrestling archery indoor d field athletics cross country half marathon indoor relays mountain running long distance mountain running snowshoe running skyrunning trail running bowling tenpin ninepin singles team bowls indoor outdoor brazilian jiu jitsu canoeing marathon ocean race wildwater sup canoe sailing freestyle waveski crokinole croquet women association croquet men golf croquet team association croquet women golf croquet team golf croquet cycling cyclo cross indoor mountain bike marathon trials darts bdo pdc team finswimming fishing freshwater fly fishing gymnastics acrobatic aerobic ice climbing modern pentathlon biathle triathle laser run mounted games orienteering foot ski mountain bike trail pétanque powerlifting men women racquetball roller sports artistic skating inline alpine inline downhill inline speed skating roller freestyle scooter rowing coastal indoor shooting practical handgun practical rifle practical shotgun skiing flying speed ski mountaineering telemarking squash individual doubles team surfing short board long board big wave suppaddleboard swimming short course teqball triathlon aquathlon duathlon ironman ironman 
+long distance sprint long distance duathlon winter cross cross duathlon yo yo esports call of duty counter strike dota esailing fifa fortnite league of legends mobile legends bang bang nes tetris overwatch pro evolution soccer smite starcraft ii valorant see also world cups authority control general national libraries retrieved from httpsenwikipediaorgwindexphp?title=formula_one&oldid= categories formula one establishments in europeformula racing seriesformula racinggames and sports introduced in open wheel racinghidden categories cs maint bot original url status unknownarticles with short descriptionshort description matches wikidatawikipedia indefinitely move protected pagesuse british english from february use dmy dates from february all articles with specifically marked weasel worded phrasesarticles with specifically marked weasel worded phrases from january articles containing potentially dated statements from all articles containing potentially dated statementsarticles containing potentially dated statements from articles containing potentially dated statements from wikipedia articles in need of updating from september all wikipedia articles in need of updatingall articles that may contain original researcharticles that may contain original research from december all articles with unsourced statementsarticles with unsourced statements from august articles with unsourced statements from october commons category link from wikidataarticles with viaf identifiersarticles with worldcat identifiersarticles with bnf identifiersarticles with gnd identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiers

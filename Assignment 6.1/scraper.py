@@ -2,6 +2,7 @@
 # AHH190004
 # NLP HW 5
 
+
 import re
 import os
 import random
@@ -15,7 +16,7 @@ from bs4 import BeautifulSoup
 from nltk.tokenize import sent_tokenize
 
 # Starting URL to scrape from
-START_URL = "https://us.motorsport.com/f1/"
+START_URL = "https://en.wikipedia.org/wiki/Formula_One"
 
 
 def read_lines(line):
@@ -39,19 +40,37 @@ def read_lines(line):
 
     # extract sentences
     text = extract_sentences(text)
+
+    # post process text
+    text = post_process(text)
     return text
+
+
+def post_process(text):
+    t = []
+    for sent in text:
+        sent = re.sub(r'^\W*(\w+\W+){0,2}\w+\W*$', '', sent, flags=re.MULTILINE)
+        sent = re.sub(r'\n\s*\n', '\n', sent)  # remove empty lines
+        sent = re.sub(r'\.', '', sent)  # remove periods
+        t.append(sent)
+
+    return t
 
 
 def clean_text(text):
     text = re.sub(r'<.*?>', '', text)  # remove html tags
-    text = re.sub(r'\t', '', text)  # remove tabs
+    text = re.sub(r'\d+', '', text) # remove numbers
+    text = re.sub(r'[,:;()\[\]$]', '', text)  # remove punctuation
     text = re.sub(r'\n\s*\n', '\n', text)  # remove empty lines
-    text = re.sub(r'\xa0', ' ', text)  # remove nonbreaking spaces
+    text = re.sub(r'\xa0', ' ', text)  # remove NBSP
     text = re.sub(r'([a-z])\.([A-Z])', r'\1. \2', text)  # add space after period for sentence tokenization
-    text = re.sub(r'\[\d+\]', '', text)  # remove references
     text = re.sub(r'^\s.*\n?', '', text, flags=re.MULTILINE)  # remove lines that start with space
-    text = text.strip()  # remove leading and trailing space
-    return text.lower()
+    text = re.sub(r'[\'\"\/]', '', text)  # remove quotes
+    text = re.sub(r'-', ' ', text)  # replace hyphens with space
+    text = re.sub(r'–', '', text)  # remove hyphens
+    text = re.sub(r'\s+', ' ', text)  # remove extra spaces
+    text = text.strip().lower()  # remove leading and trailing spaces and convert to lowercase
+    return text
 
 
 def get_text(url):
@@ -84,9 +103,7 @@ def get_text(url):
     # print(data)
 
     # convert list to string
-    temp_list = list(data)  # list from filter
-    temp_list = [str(i) for i in temp_list]
-    temp_str = ''.join(temp_list)  # join list to string
+    temp_str = ''.join(data)  # join list to string
     return temp_str
 
 
@@ -110,7 +127,7 @@ def write_urls():
                 break
 
             # condition to check if link contains some specific text
-            if not link_str.startswith("#") and not link_str.startswith("//") and not link_str.startswith("/w") and 'wiki' not in link_str:
+            if not link_str.startswith("#") and not link_str.startswith("//") and not link_str.startswith("/w") and not link_str.startswith('http:') and 'wiki' not in link_str and 'archive' not in link_str:
                 # check if link is already in the list
                 if link_str not in links:
                     links.append(link_str)
@@ -120,9 +137,9 @@ def write_urls():
 
 def write_text(text, counter):
     fname = str(counter) + ".txt"
-    with open(fname, 'w') as f:
+    with open(fname, 'w') as file:
         for line in text:
-            f.write(line + '\n')
+            file.write(line + '\n')
 
 
 if __name__ == "__main__":
@@ -147,14 +164,12 @@ if __name__ == "__main__":
             write_text(url_text, counter)
         counter += 1
 
-
     # find important words in the text
     dir = os.getcwd()
-
+    most_common = {}
     for filename in os.listdir(dir):
         if filename.endswith(".txt"):
             with open(filename, 'r') as f:
-                most_common = {}
                 for line in f:
                     line = line.split()
                     for word in line:
@@ -163,17 +178,28 @@ if __name__ == "__main__":
                                 most_common[word] += 1
                             else:
                                 most_common[word] = 1
-                sort_dict = dict(sorted(most_common.items(), key=lambda item: item[1]))
 
-                top_50 = []
-                for i in reversed(sort_dict):
-                    top_50.append(i)
-                top_50 = top_50[:50]
+    # Sort the dictionary by value
+    sort_dict = dict(sorted(most_common.items(), key=lambda item: item[1]))
 
-                # Print the 50 most common words and their counts
-                print("Top 50 most common words:")
-                for i in top_50:
-                    print(i + ':' + str(most_common[i]))
+    top_30 = []
+    for i in reversed(sort_dict):
+        top_30.append(i)
+    top_30 = top_30[:30]
 
+    # Print the 50 most common words and their counts
+    print("Top 50 most common words:")
+    for i in top_30:
+        print(i + ':' + str(most_common[i]))
 
-
+    # Top 10 words/phrases:
+    # 1. formula one/f1/formula 1
+    # 2. race
+    # 3. season
+    # 4. championship
+    # 5. team
+    # 6. driver
+    # 7. grand prix
+    # 8. car
+    # 9. points
+    # 10. fia
