@@ -1,0 +1,97 @@
+version: "3.1"
+
+stories:
+  - story: Learn F1 Introduction
+    steps:
+      - intent: learn_f1_intro
+      - action: utter_learn_f1_intro
+
+  - story: Learn F1 Cars
+    steps:
+      - intent: learn_f1_cars
+      - action: utter_learn_f1_cars
+
+  - story: Learn F1 Governance
+    steps:
+      - intent: learn_f1_governance
+      - action: utter_learn_f1_governance
+
+  - story: Learn F1 Season
+    steps:
+      - intent: learn_f1_season
+      - action: utter_learn_f1_season
+
+  - story: Learn F1 Fans
+    steps:
+      - intent: learn_f1_fans
+      - action: utter_learn_f1_fans
+
+  - story: Learn F1 Drivers
+    steps:
+      - intent: learn_f1_drivers
+      - action: utter_learn_f1_drivers
+
+  - story: Learn F1 Teams
+    steps:
+      - intent: learn_f1_teams
+      - action: utter_learn_f1_teams
+
+  - story: Learn F1 History
+    steps:
+      - intent: learn_f1_history
+      - action: utter_learn_f1_history
+
+  - story: greet
+    steps:
+    - intent: greet
+    - action: utter_greet
+
+  - story: greet and learn_race
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: learn_race
+    - action: utter_learn_race
+
+  - story: greet and learn_season
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: learn_season
+    - action: utter_learn_season
+
+  - story: goodbye
+    steps:
+    - intent: goodbye
+    - action: utter_goodbye
+
+  - story: fallback
+    steps:
+    - intent: nlu_fallback
+    - action: utter_default
+
+  - story: how_to_get_started
+    steps:
+    - intent: how_to_get_started
+    - action: utter_how_to_get_started
+
+  - story: learn_fia
+    steps:
+    - intent: fia_definition
+    - action: utter_fia_definition
+    - intent: fia_responsibilities
+    - action: utter_fia_responsibilities
+    - intent: fia_history
+    - action: utter_fia_history
+    - intent: fia_governance
+    - action: utter_fia_governance
+    - intent: fia_regulations
+    - action: utter_fia_regulations
+    - intent: fia_technologies
+    - action: utter_fia_technologies
+    - intent: fia_collaboration
+    - action: utter_fia_collaboration
+    - intent: fia_sustainability
+    - action: utter_fia_sustainability
+    - intent: fia_influence
+    - action: utter_fia_influence

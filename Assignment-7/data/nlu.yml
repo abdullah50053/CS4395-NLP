@@ -1,0 +1,281 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hola
+    - sup
+    - hello there
+    - hey there
+    - good morning
+    - good evening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good bye
+    - see you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - bye bye
+
+- intent: learn_f1_intro
+  examples: |
+    - what is f1
+    - what is formula 1
+    - what is formula one
+    - what is formula 1 racing
+    - what is formula one racing
+    - what is formula 1 racing about
+    - what is formula one racing about
+    - what is formula 1 racing all about
+    - what is formula one racing all about
+    - whats f1
+    - whats formula 1
+    - whats formula one
+    - whats formula 1 racing
+    - tell me about f1
+    - tell me about formula 1
+    - tell me about formula one
+    - tell me about formula 1 racing
+    - tell me about formula one racing
+    - can you tell me about f1
+    - what does f1 stand for
+    - describe f1 to me
+    - describe formula 1 to me
+    - describe formula one to me
+    - explain f1 to me
+    - explain formula 1 to me
+    - explain what f1 is
+    - explain what formula 1 is
+
+# Intent for F1 Cars
+- intent: learn_f1_cars
+  examples: |
+    - What makes F1 cars special?
+    - Tell me about the technology behind F1 cars
+    - What are F1 cars made of?
+    - How fast do F1 cars go?
+    - What is a hybrid power unit in an F1 car?
+
+# Intent for F1 Governance
+- intent: learn_f1_governance
+  examples: |
+    - Who governs Formula One?
+    - What is the role of the FIA in F1?
+    - How are F1 races organized and managed?
+    - Can you explain F1 technical regulations?
+    - What are F1 safety standards?
+
+# Intent for F1 Season
+- intent: learn_f1_season
+  examples: |
+    - When does the F1 season start and end?
+    - How many races are there in an F1 season?
+    - Where are F1 races held?
+    - What is the schedule for F1 races?
+
+# Intent for F1 Fans
+- intent: learn_f1_fans
+  examples: |
+    - How popular is F1 racing?
+    - Who watches F1 races?
+    - Why do people like F1 racing?
+    - Can you tell me about the history of F1 fans?
+
+# Intent for F1 Drivers
+- intent: learn_f1_drivers
+  examples: |
+    - What makes F1 drivers special?
+    - How do F1 drivers train and prepare?
+    - Who are the best F1 drivers of all time?
+    - How do F1 drivers cope with the physical demands of racing?
+
+# Intent for F1 Teams
+- intent: learn_f1_teams
+  examples: |
+    - Who are the F1 teams?
+    - What are the most successful F1 teams?
+    - How do F1 teams develop their cars and technologies?
+    - What is the role of the team in F1 racing?
+
+# Intent for F1 History
+- intent: learn_f1_history
+  examples: |
+    - What is the history of F1 racing?
+    - Who are some of the most legendary F1 drivers and teams?
+    - Can you tell me about some of the most memorable F1 races?
+    - How has F1 racing evolved over time?
+
+- intent: learn_race
+  examples: |
+    - what is a race
+    - tell me about races
+    - how long is a race
+    - What happens during a Formula One race
+    - Can you explain how an F1 race works
+    - What is the length of a typical F1 race
+    - How are F1 races structured
+    - What are the different aspects of an F1 race
+    
+
+- intent: learn_season
+  examples: |
+    - When does the Formula One season start and end
+    - What happens during the Formula One season
+    - How many races are in a Formula One season
+    - What is the format of the Formula One season
+    - Can you tell me about the different stages of the Formula One season
+
+- intent: learn_championship
+  examples: |
+    - What is the Formula One World Championship
+    - How is the Formula One championship determined
+    - Who has won the Formula One championship in the past
+    - What is the significance of winning the Formula One championship
+    - How does the championship affect the outcome of races
+
+- intent: learn_team
+  examples: |
+    - Can you tell me about the different Formula One teams
+    - How many teams are there in Formula One
+    - What makes Formula One teams competitive
+    - Who are some of the top Formula One teams
+    - What role do teams play in Formula One races
+
+- intent: learn_driver
+  examples: |
+    - What is a Formula One driver
+    - What is the role of a Formula One driver
+    - What are the responsibilities of a Formula One driver
+    - What are the qualifications of a Formula One driver
+    - What are the requirements of a Formula One driver
+    - What are Formula One drivers responsible for
+    - How do drivers work with their teams' engineers
+    - What is a super license
+    - How much can the highest-paid Formula One drivers earn per year
+    - Who typically hones their skills in lower-level motorsports before reaching Formula One
+
+- intent: learn_grandprix
+  examples: |
+    - What is a Formula One Grand Prix
+    - What is a Grand Prix
+    - How many Grand Prix races are held each season
+    - Where are Grand Prix races held
+    - What happens during a Grand Prix weekend
+    - How are points awarded during a Grand Prix
+    - What are some of the most famous Grand Prix races
+
+- intent: learn_car
+  examples: |
+    - What is a Formula One car
+    - what is a car
+    - What are Formula One cars made of
+    - How are Formula One cars designed and built
+    - How fast can Formula One cars go
+    - How are Formula One cars customized
+    - What is the cost of building and maintaining a Formula One car
+
+- intent: learn_points
+  examples: |
+    - What are points
+    - How are points awarded
+    - How are points calculated
+    - How are points used
+    - How are points determined
+    - How are points scored
+    - How are points earned
+    - How are points calculated in Formula One
+    - What is the difference between the Drivers' Championship and the Constructors' Championship
+    - How is the winner determined if two or more drivers or teams finish the season with the same number of points
+    - How are points used to determine starting positions
+    - What recent changes have been made to the points system in Formula One
+
+- intent: fia_definition
+  examples: |
+    - What is FIA
+    - FIA
+    - What does FIA mean
+    - Define FIA
+    - What is the meaning of FIA
+
+- intent: fia_responsibilities
+  examples: |
+    - What are the responsibilities of FIA
+    - What does FIA do
+    - whats fia do 
+    - What are the duties of FIA
+    - What are the responsibilities of the Fédération Internationale de l'Automobile
+    - What is FIA responsible for in motorsports
+
+- intent: fia_history
+  examples: |
+    - FIA history and headquarters
+    - When was FIA founded
+    - Where is the headquarters of FIA located
+    - Who founded FIA
+    - What is the history of FIA
+    - fia hq
+    - fia founded when 
+
+- intent: fia_governance
+  examples: |
+    - FIA governance and decision-making
+    - Who is in charge of FIA?
+    - Who runs FIA?
+    - How is FIA governed?
+    - How are decisions made in FIA?
+
+- intent: fia_regulations
+  examples: |
+    - FIA regulations and penalties
+    - What are the technical regulations set by FIA for Formula One
+    - What are the safety standards set by FIA for Formula One
+    - What are the penalties and sanctions imposed by FIA on teams and drivers
+    - How does FIA enforce the rules and regulations of Formula One
+
+- intent: fia_technologies
+  examples: |
+    - FIA and new technologies in Formula One
+    - How does FIA oversee the development of new technologies in Formula One
+    - What are the new technologies developed by FIA for Formula One
+    - What is FIA's role in the development of hybrid power units in Formula One
+    - fia technologies
+
+- intent: fia_collaboration
+  examples: |
+    - FIA collaboration with teams, drivers, and circuit organizers
+    - How does FIA work with teams, drivers, and circuit organizers to ensure safe and fair races
+    - What is FIA's collaboration with teams, drivers, and circuit organizers
+    - What is FIA's role in ensuring competitive races
+
+- intent: fia_sustainability
+  examples: |
+    - FIA and sustainability in Formula One
+    - What is FIA's role in promoting sustainability and environmental responsibility in Formula One
+    - What are the efforts made by FIA to reduce the carbon footprint of Formula One
+    - How does FIA encourage the use of sustainable technologies in Formula One
+
+- intent: fia_influence
+  examples: |
+    - FIA influence on Formula One
+    - How influential is FIA in the world of motorsports
+    - What is the impact of FIA's decisions and policies on Formula One
+    - How does FIA shape the future of Formula One
+
+- intent: how_to_get_started
+  examples: |
+    - what can i do with this bot
+    - what else can you do
+    - how do i get started
+    - what can i do with this assistant
+    - how do i use this bot
+    - how do i use this assistant
+    - how do i use this
+    - what can i do

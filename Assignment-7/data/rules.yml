@@ -1,0 +1,147 @@
+version: "3.1"
+
+rules:
+
+- rule: Respond to a greeting
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- rule: Respond to a goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Respond to an unknown intent
+  steps:
+  - action: utter_default
+
+- rule: Respond to learn_f1_intro intent
+  steps:
+  - intent: learn_f1_intro
+  - action: utter_learn_f1_intro
+
+- rule: Respond to learn_f1_cars intent
+  steps:
+  - intent: learn_f1_cars
+  - action: utter_learn_f1_cars
+
+- rule: Respond to learn_f1_governance intent
+  steps:
+  - intent: learn_f1_governance
+  - action: utter_learn_f1_governance
+
+- rule: Respond to learn_f1_season intent
+  steps:
+  - intent: learn_f1_season
+  - action: utter_learn_f1_season
+
+- rule: Respond to learn_f1_fans intent
+  steps:
+  - intent: learn_f1_fans
+  - action: utter_learn_f1_fans
+
+- rule: Respond to learn_f1_drivers intent
+  steps:
+  - intent: learn_f1_drivers
+  - action: utter_learn_f1_drivers
+
+- rule: Respond to learn_f1_teams intent
+  steps:
+  - intent: learn_f1_teams
+  - action: utter_learn_f1_teams
+
+- rule: Respond to learn_f1_history intent
+  steps:
+  - intent: learn_f1_history
+  - action: utter_learn_f1_history
+
+- rule: Respond to a request to learn about races
+  steps:
+  - intent: learn_race
+  - action: utter_learn_race
+
+- rule: Respond to a request to learn about the season
+  steps:
+  - intent: learn_season
+  - action: utter_learn_season
+
+- rule: Respond to a request to learn about the championship
+  steps:
+  - intent: learn_championship
+  - action: utter_learn_championship
+
+- rule: Respond to a request to learn about a team
+  steps:
+  - intent: learn_team
+  - action: utter_learn_team
+
+- rule: Respond to a request to learn about a driver
+  steps:
+  - intent: learn_driver
+  - action: utter_learn_driver
+
+- rule: Respond to a request to learn about a Grand Prix
+  steps:
+  - intent: learn_grandprix
+  - action: utter_learn_grandprix
+
+- rule: Respond to a request to learn about a car
+  steps:
+  - intent: learn_car
+  - action: utter_learn_car
+
+- rule: Respond to a request to learn about points
+  steps:
+  - intent: learn_points
+  - action: utter_learn_points
+
+- rule: Respond to a request for the FIA definition
+  steps:
+  - intent: fia_definition
+  - action: utter_fia_definition
+
+- rule: Respond to a request for FIA responsibilities
+  steps:
+  - intent: fia_responsibilities
+  - action: utter_fia_responsibilities
+
+- rule: Respond to a request for FIA history
+  steps:
+  - intent: fia_history
+  - action: utter_fia_history
+
+- rule: Respond to a request for FIA governance
+  steps:
+  - intent: fia_governance
+  - action: utter_fia_governance
+
+- rule: Respond to a request for FIA regulations
+  steps:
+  - intent: fia_regulations
+  - action: utter_fia_regulations
+
+- rule: Respond to a request for FIA technologies
+  steps:
+  - intent: fia_technologies
+  - action: utter_fia_technologies
+
+- rule: Respond to a request for FIA collaboration
+  steps:
+  - intent: fia_collaboration
+  - action: utter_fia_collaboration
+
+- rule: Respond to a request for FIA sustainability
+  steps:
+  - intent: fia_sustainability
+  - action: utter_fia_sustainability
+
+- rule: Respond to a request for FIA influence
+  steps:
+  - intent: fia_influence
+  - action: utter_fia_influence
+
+- rule: Respond to a request on how to get started
+  steps:
+  - intent: how_to_get_started
+  - action: utter_how_to_get_started
