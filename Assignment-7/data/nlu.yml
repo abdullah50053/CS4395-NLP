@@ -16,44 +16,26 @@ nlu:
 
 - intent: goodbye
   examples: |
-    - cu
-    - good bye
     - see you later
     - good night
     - bye
     - goodbye
     - have a nice day
-    - bye bye
 
 - intent: learn_f1_intro
   examples: |
     - what is f1
     - what is formula 1
     - what is formula one
-    - what is formula 1 racing
-    - what is formula one racing
-    - what is formula 1 racing about
-    - what is formula one racing about
-    - what is formula 1 racing all about
-    - what is formula one racing all about
     - whats f1
-    - whats formula 1
     - whats formula one
-    - whats formula 1 racing
     - tell me about f1
     - tell me about formula 1
-    - tell me about formula one
-    - tell me about formula 1 racing
-    - tell me about formula one racing
     - can you tell me about f1
     - what does f1 stand for
     - describe f1 to me
-    - describe formula 1 to me
-    - describe formula one to me
-    - explain f1 to me
     - explain formula 1 to me
     - explain what f1 is
-    - explain what formula 1 is
 
 # Intent for F1 Cars
 - intent: learn_f1_cars
