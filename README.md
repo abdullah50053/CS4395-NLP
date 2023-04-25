@@ -13,3 +13,11 @@
 [Assignment 5: Sentence Parsing using PSG, Dependency Parsing and SRL Parse](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-5) 
 
 [Assignment 6: Web Crawling and Scraping](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-6.1)
+
+[Assignment 7: Chat bot](https://github.com/abdullah50053/CS4395-NLP/tree/main/Assignment-7)
+
+[Assignment 8: Text Classification](https://github.com/abdullah50053/CS4395-NLP/blob/main/Assignment-8/ml.pdf)
+
+[Assignment 9: ACL Paper Summary](https://github.com/abdullah50053/CS4395-NLP/blob/main/Assignment-9/NLP%20ACL%20Paper%20Summary.pdf)
+
+[Assignment 10: Text Classification 2](https://github.com/abdullah50053/CS4395-NLP/blob/main/Assignment-10/text.ipynb)
