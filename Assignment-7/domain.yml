@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 version: "3.1"
 
 intents:
@@ -191,6 +192,202 @@ responses:
     - text: "The FIA is widely regarded as one of the most influential and powerful organizations in motorsports, and its decisions and policies have a major impact on the sport of Formula One."
 
 
+=======
+version: '3.1'
+intents:
+- fia_collaboration
+- fia_definition
+- fia_governance
+- fia_history
+- fia_influence
+- fia_regulations
+- fia_responsibilities
+- fia_sustainability
+- fia_technologies
+- goodbye
+- greet
+- how_to_get_started
+- learn_car
+- learn_championship
+- learn_driver
+- learn_f1_cars
+- learn_f1_drivers
+- learn_f1_fans
+- learn_f1_governance
+- learn_f1_history
+- learn_f1_intro
+- learn_f1_season
+- learn_f1_teams
+- learn_grandprix
+- learn_points
+- learn_race
+- learn_team
+- season_info
+actions:
+- utter_how_to_get_started
+- action_season_info
+- utter_greet
+- utter_season_info
+responses:
+  utter_greet:
+  - text: Hey! How can I help you?
+  utter_default:
+  - text: I'm sorry, I didn't understand. Can you please rephrase that?
+  utter_goodbye:
+  - text: Bye!
+  utter_how_to_get_started:
+  - text: I can answer questions you have about Formula 1. Ask away!
+  utter_season_info:
+  - text: The {year} season ended with {driver} finishing 1st in the driver\'s championship and {constructor} winning the constructor\'s championship.
+  utter_learn_f1_intro:
+  - text: Formula One, also known as F1, is a type of open-wheel, single-seat racing that is considered the pinnacle of motorsports. F1 races are held all over the world, on circuits that range from traditional tracks to purpose-built street courses.
+  utter_learn_f1_cars:
+  - text: F1 cars are highly advanced, with cutting-edge technology and materials used in their design and construction. They are powered by hybrid power units that combine a turbocharged internal combustion engine with an electric motor, producing over 1000 horsepower.
+  utter_learn_f1_governance:
+  - text: F1 is governed by the FIA (Fédération Internationale de l'Automobile), which is responsible for setting technical regulations, safety standards, and overseeing the organization and management of each Grand Prix race.
+  utter_learn_f1_season:
+  - text: The F1 season typically runs from March to December each year, with races held all around the world.
+  utter_learn_f1_fans:
+  - text: F1 races are watched by millions of fans worldwide, making it one of the most popular and prestigious forms of motorsport.
+  utter_learn_f1_drivers:
+  - text: F1 drivers are among the most skilled and talented athletes in the world, with years of training and experience required to compete at the highest level.
+  utter_learn_f1_teams:
+  - text: F1 teams are highly competitive and constantly seeking ways to gain an advantage on the track, investing heavily in research and development to improve their cars and technologies.
+  utter_learn_f1_history:
+  - text: The history of Formula One is filled with legendary drivers, teams, and races, and continues to captivate and inspire fans around the world.
+  utter_learn_race_1:
+  - text: Each race is typically held on a purpose-built race track, although some races take place on public roads that have been temporarily closed for the event.
+  utter_learn_race_2:
+  - text: The length of a race varies depending on the track and the specific race, but most races are around 300 kilometers in length and last between 1.5 and 2 hours.
+  utter_learn_race_3:
+  - text: The winner of a race is the driver who completes the set number of laps or distance in the shortest amount of time, with the top three drivers awarded points towards the championship.
+  utter_learn_race_4:
+  - text: Races are high-speed, high-intensity events that require extreme focus, skill, and physical fitness from the drivers.
+  utter_learn_race_5:
+  - text: In addition to the drivers, races also involve a team of engineers and mechanics who work together to fine-tune the car's performance and strategy.
+  utter_learn_race_6:
+  - text: Races often involve pit stops, during which drivers can refuel and change tires, as well as make adjustments to the car.
+  utter_learn_race_7:
+  - text: Weather conditions can play a significant role in the outcome of a race, with rain and other factors affecting track conditions and driver performance.
+  utter_learn_race_8:
+  - text: Formula One races are broadcast on television around the world, and attract millions of viewers and fans who follow the sport closely.
+  utter_learn_race_9:
+  - text: Winning a Formula One race is considered one of the greatest achievements in motorsport, and many legendary drivers have become household names thanks to their success on the track.
+  utter_learn_season_1:
+  - text: The Formula One season typically runs from March to December, with races held all around the world.
+  utter_learn_season_2:
+  - text: The season is made up of a series of races, with drivers and teams competing for the World Championship.
+  utter_learn_season_3:
+  - text: In the modern era, the season usually consists of around 20 races, although this can vary from year to year.
+  utter_learn_season_4:
+  - text: Each race awards points towards the championship, with the driver and team with the most points at the end of the season being crowned World Champion.
+  utter_learn_season_5:
+  - text: The Formula One season involves a significant amount of travel, with teams and drivers traveling to different continents and time zones to compete in races.
+  utter_learn_season_6:
+  - text: The season often begins with pre-season testing, during which teams test their cars and prepare for the upcoming season.
+  utter_learn_season_7:
+  - text: Teams and drivers may make changes to their cars throughout the season to improve performance, with updates and new parts being introduced at various stages of the year.
+  utter_learn_season_8:
+  - text: The season finale, typically held in December, is often one of the most anticipated races of the year and can be crucial in determining the World Championship winner.
+  utter_learn_season_9:
+  - text: The Formula One season is not without controversy, with disputes between teams, drivers, and officials sometimes making headlines and influencing the outcome of races.
+  utter_learn_season_10:
+  - text: Formula One fans around the world follow the season closely, with many attending races in person and millions more tuning in to watch on television.
+  utter_learn_championship_1:
+  - text: The Formula One World Championship is the pinnacle of the sport, with drivers and teams competing for the title of World Champion.
+  utter_learn_championship_2:
+  - text: The championship is awarded to the driver and team that score the most points over the course of the season.
+  utter_learn_championship_3:
+  - text: Points are awarded to drivers based on their finishing position in each race, with the winner receiving 25 points, second place receiving 18 points, and so on.
+  utter_learn_championship_4:
+  - text: In addition to the drivers' championship, there is also a separate championship for the constructors, which is awarded to the team that scores the most points over the course of the season.
+  utter_learn_championship_5:
+  - text: The championship is highly competitive, with many talented drivers and teams vying for the title each year.
+  utter_learn_championship_6:
+  - text: The championship has been won by some of the greatest drivers in the history of the sport, including Michael Schumacher, Ayrton Senna, and Juan Manuel Fangio.
+  utter_learn_championship_7:
+  - text: Winning the championship is a major achievement in Formula One, and can cement a driver's place in the history of the sport.
+  utter_learn_championship_8:
+  - text: The championship is not without controversy, with disputes between teams, drivers, and officials sometimes influencing the outcome of races and championships.
+  utter_learn_championship_9:
+  - text: The championship is often decided in the final race of the season, adding to the drama and excitement of the sport.
+  utter_learn_championship_10:
+  - text: The championship is followed closely by Formula One fans around the world, who root for their favorite drivers and teams throughout the season.
+  utter_learn_team:
+  - text: Formula One is a team sport, with each team consisting of two drivers, support staff, engineers, and management.
+  - text: Teams compete in the Constructors\' Championship, which is awarded to the team that scores the most points over the course of the season.
+  - text: Teams are allowed to design and build their own cars, which are subject to strict technical regulations set by the FIA (Fédération Internationale de l\'Automobile).
+  - text: Formula One teams typically have large budgets, with the top teams spending hundreds of millions of dollars each year on research, development, and testing.
+  - text: Teams are responsible for developing and maintaining their own engines, with some teams opting to design their own engines while others purchase engines from other manufacturers.
+  - text: Drivers are contracted to specific teams and typically work closely with their engineers to develop the car and optimize its performance.
+  - text: Teams often have rivalries with one another, with intense competition on and off the track.
+  - text: Formula One teams are based all over the world, with many teams having headquarters in Europe but also facilities in other continents like Asia and North America.
+  - text: The top teams in Formula One have a rich history and are often associated with iconic drivers and memorable moments in the sport\'s history.
+  - text: Teams are also responsible for managing the logistics of transporting personnel, equipment, and cars to and from each race on the calendar.
+  utter_learn_driver:
+  - text: Formula One drivers are considered to be some of the best drivers in the world, with many honing their skills in lower-level motorsports before reaching Formula One.
+  - text: Each team in Formula One is required to field two drivers for each race, with the drivers typically being contracted for a full season.
+  - text: Drivers compete for both individual honors, such as the Drivers\' Championship, as well as for their team in the Constructors\' Championship.
+  - text: Drivers are responsible for driving the cars at high speeds around the track, making split-second decisions and reacting to changing conditions on the track.
+  - text: Drivers work closely with their teams\' engineers to develop the car and optimize its performance for each race.
+  - text: Drivers are subject to strict safety regulations, including the requirement to wear fire-resistant clothing and helmets at all times while on the track.
+  - text: Formula One drivers typically compete in 20 or more races per season, traveling around the world to compete at different tracks.
+  - text: Drivers are required to have a super license, which is granted by the FIA based on a combination of driving experience and performance in lower-level racing series.
+  - text: The highest-paid Formula One drivers can earn tens of millions of dollars per year, with sponsorship deals and endorsements adding to their income.
+  - text: Drivers are often the public face of their teams, representing the team in interviews and press conferences and interacting with fans and sponsors.
+  utter_learn_grandprix:
+  - text: A Grand Prix is a term used to describe a Formula One race that is part of the official Formula One World Championship.
+  - text: The term "Grand Prix" is derived from the French phrase meaning "great prize".
+  - text: The first Grand Prix was held in 1906 in Le Mans, France, and was won by Hungarian driver Ferenc Szisz.
+  - text: The Formula One calendar typically features around 20 Grand Prix races each season, held in different countries around the world.
+  - text: Each Grand Prix is held over a weekend, with practice sessions, qualifying sessions, and the race itself taking place over three days.
+  - text: The winner of each Grand Prix is awarded 25 points towards the Drivers\' Championship, with points also being awarded for the top 10 finishing positions.
+  - text: The team with the highest number of points at the end of the season wins the Constructors\' Championship.
+  - text: Grand Prix races are held on purpose-built circuits as well as on temporary street circuits in some cities.
+  - text: Some of the most famous Grand Prix races include the Monaco Grand Prix, the British Grand Prix, and the Italian Grand Prix.
+  - text: Grand Prix races are a major source of revenue for both Formula One teams and the cities or countries that host them, with millions of fans tuning in to watch each race around the world.
+  utter_learn_car:
+  - text: Formula One cars are highly specialized racing machines that are designed and built by each team to conform to strict technical regulations set by the FIA.
+  - text: Formula One cars typically weigh around 740 kg, including the driver and fuel, and are powered by hybrid power units that combine a turbocharged internal combustion engine with an electric motor.
+  - text: The engines used in Formula One cars are highly advanced, with power outputs of over 1000 horsepower and revving to over 15,000 rpm.
+  - text: Formula One cars are built with lightweight materials such as carbon fiber and titanium to maximize performance, with aerodynamics playing a critical role in their design.
+  - text: Teams typically produce new car models each year or update their existing models to comply with the latest regulations and to improve performance.
+  - text: Drivers are required to have a deep understanding of the car\'s handling, braking, and acceleration characteristics, as well as the ability to make split-second decisions during races.
+  - text: Formula One cars can reach speeds of over 220 mph, making them some of the fastest racing cars in the world.
+  - text: Teams employ hundreds of engineers, mechanics, and other personnel to design, build, and maintain their cars throughout the season.
+  - text: Formula One cars are highly customizable, with teams able to adjust various settings such as the suspension, aerodynamics, and engine mapping to suit different tracks and race conditions.
+  - text: The cost of building and maintaining a Formula One car can run into the hundreds of millions of dollars each year, with teams constantly looking for ways to gain a competitive advantage on the track.
+  utter_learn_points:
+  - text: Points are awarded to drivers and teams based on their finishing positions in each Grand Prix race.
+  - text: The driver who finishes in first place is awarded 25 points, with points being awarded all the way down to 10th place (1 point).
+  - text: In addition to the points awarded for finishing positions, bonus points are also awarded for achieving the fastest lap in a race (1 point) and for finishing in the top 3 in a sprint race (3 points for 1st, 2 points for 2nd, and 1 point for 3rd).
+  - text: The team with the highest number of points at the end of the season is awarded the Constructors\' Championship, which is separate from the Drivers\' Championship.
+  - text: If two or more drivers or teams finish the season with the same number of points, tiebreakers are used to determine the winner based on factors such as number of wins, number of second-place finishes, and so on.
+  - text: Points are used to determine the starting positions for each race, with the driver who earns the most points in qualifying being awarded pole position (the first starting position).
+  - text: In recent years, changes have been made to the points system in an effort to encourage more competitive racing and to reward drivers who perform well in individual races.
+  - text: Points are a key factor in determining which drivers and teams are leading the championship standings at any given time, and can often be the difference between winning and losing a championship.
+  - text: Points are also used to determine the finishing order for drivers who retire or are unable to complete a race due to mechanical failures or accidents.
+  - text: Points are a way of measuring the success and performance of drivers and teams over the course of a season, and are closely watched by fans, media, and sponsors.
+  utter_fia_definition:
+  - text: FIA stands for Fédération Internationale de l\'Automobile, which is the governing body for Formula One and other international motorsports.
+  utter_fia_responsibilities:
+  - text: The FIA is responsible for managing a number of international motorsports series, including Formula One, Formula E, and the World Endurance Championship.
+  utter_fia_history:
+  - text: The FIA was founded in 1904 and is headquartered in Paris, France.
+  - text: The FIA is the oldest international sports federation in the world, and has been involved in Formula One since the sport\'s inception in 1950.
+  utter_fia_governance:
+  - text: The FIA is run by a president, who is elected to a four-year term, and a council composed of representatives from national motorsports associations around the world.
+  utter_fia_regulations:
+  - text: The FIA is responsible for enforcing the rules and regulations of Formula One, and has the power to impose penalties and sanctions on teams and drivers who violate these rules.
+  utter_fia_technologies:
+  - text: The FIA is also responsible for overseeing the development of new technologies in Formula One, including the hybrid power units that are currently used in the sport.
+  utter_fia_collaboration:
+  - text: The FIA works closely with teams, drivers, and circuit organizers to ensure that Formula One races are safe, fair, and competitive.
+  utter_fia_sustainability:
+  - text: The FIA also plays a key role in promoting sustainability and environmental responsibility in Formula One, working to reduce the sport\'s carbon footprint and encourage the use of sustainable technologies.
+  utter_fia_influence:
+  - text: The FIA is widely regarded as one of the most influential and powerful organizations in motorsports, and its decisions and policies have a major impact on the sport of Formula One.
+>>>>>>> d8e8571 (Add Assignments)
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

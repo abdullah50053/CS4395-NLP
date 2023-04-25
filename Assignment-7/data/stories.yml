@@ -51,14 +51,39 @@ stories:
     - intent: greet
     - action: utter_greet
     - intent: learn_race
+<<<<<<< HEAD
     - action: utter_learn_race
+=======
+    - action: utter_learn_race_1
+
+  - story: greet and season_info
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: season_info
+    - action: action_season_info
+>>>>>>> d8e8571 (Add Assignments)
 
   - story: greet and learn_season
     steps:
     - intent: greet
     - action: utter_greet
+<<<<<<< HEAD
     - intent: learn_season
     - action: utter_learn_season
+=======
+    - intent: learn_f1_season
+    - action: utter_learn_season_1
+
+  - story: greet and learn_season repeating
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: learn_f1_season
+    - action: utter_learn_season_1
+    - intent: learn_f1_season
+    - action: utter_learn_season_1
+>>>>>>> d8e8571 (Add Assignments)
 
   - story: goodbye
     steps:
@@ -78,6 +103,7 @@ stories:
   - story: learn_fia
     steps:
     - intent: fia_definition
+<<<<<<< HEAD
     - action: utter_fia_definition
     - intent: fia_responsibilities
     - action: utter_fia_responsibilities
@@ -95,3 +121,6 @@ stories:
     - action: utter_fia_sustainability
     - intent: fia_influence
     - action: utter_fia_influence
+=======
+    - action: utter_fia_definition
+>>>>>>> d8e8571 (Add Assignments)

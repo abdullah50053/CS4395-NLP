@@ -59,17 +59,30 @@ rules:
 - rule: Respond to a request to learn about races
   steps:
   - intent: learn_race
+<<<<<<< HEAD
   - action: utter_learn_race
 
 - rule: Respond to a request to learn about the season
   steps:
   - intent: learn_season
   - action: utter_learn_season
+=======
+  - action: utter_learn_race_1
+
+- rule: Respond to a request to learn about the season
+  steps:
+  - intent: learn_f1_season
+  - action: utter_learn_season_1
+>>>>>>> d8e8571 (Add Assignments)
 
 - rule: Respond to a request to learn about the championship
   steps:
   - intent: learn_championship
+<<<<<<< HEAD
   - action: utter_learn_championship
+=======
+  - action: utter_learn_championship_1
+>>>>>>> d8e8571 (Add Assignments)
 
 - rule: Respond to a request to learn about a team
   steps:
