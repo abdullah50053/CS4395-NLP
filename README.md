@@ -24,6 +24,7 @@
 
 [Assignment 10: Text Classification 2 (Using Deep Learning)](https://github.com/abdullah50053/CS4395-NLP/blob/main/Assignment-10/text.ipynb)
 
+[Resume](Resume/README.md)
 
 ## Summary
 
