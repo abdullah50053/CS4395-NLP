@@ -4,6 +4,8 @@
 
 This program is a chatbot that uses the NLP techniques learned in class that carries a limited conversation in the domain of *Formula 1*. The chatbot is powered by [Rasa](https://rasa.com/docs/rasa/), an open source framework for building chat and voice-based AI assistants. 
 
+The chatbot is currently powered by SpaCy NLP, which was used due to the ease of implementation in comparison to using the NLTK library. I also used DIETClassifier (Dual Intent and Entity Transformer) as a transformer-based model that performs both as an entity extractor and intent classifier to extract entities from the text as well as understand user intent.
+
 In addition to Rasa, the chatbot also talks to the [Ergast API](https://ergast.com/mrd/), which provides data for the Formula One series, from the beginning of the world championships in 1950 all the way until present-day. 
 
 ## Setup
